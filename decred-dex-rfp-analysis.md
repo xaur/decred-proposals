@@ -79,6 +79,10 @@ If it becomes possible to trade without feeding surveillance, that would be a bo
 
 (triggered by @karamble's [message](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$1549516985493pQmpJ:decred.org))
 
+### Pro: This is bold
+
+> Approving this proposal would signal that stakeholders want to see the project making bold moves that advance the whole space. (@richardred in [investinblockchain.com](https://www.investinblockchain.com/is-decred-dcr-building-decentralized-exchange/) article)
+
 ## Cons and risks
 
 ### Con: Decred should not pay for DEX alone
@@ -104,6 +108,7 @@ If more parties joined in the expense this would be less of a problem, or no pro
 
 Counter:
 
+* RFP by itself does not bind to expense. A second vote to approve a specific contractor's proposal will be necessary. It is possible that all such proposals will be voted down and no expense will be made. Therefore it is safe to proceed with the RFP to see what proposals will come, look at their plans, budgets and teams behind them.
 * There will be no large upfront payment.
 * "Upper end cost of USD 1M was not intended to indicate that would be likely cost of the work, merely that we should not entertain proposals to build it for any amount greater than that." ([politeia](https://proposals.decred.org/proposals/5431da8ff4eda8cdbf8f4f2e08566ffa573464b97ef6d6bae78e749f27800d3a/comments/15))
 * Second version of the proposal reduced the upper bound to USD 250,000.
