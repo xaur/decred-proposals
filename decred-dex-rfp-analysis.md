@@ -1,7 +1,9 @@
 # Analysis of Decred DEX proposal
 
-Collection of pros and cons for the [RFP: Decred Decentralized Exchange Infrastructure
+Personal collection of pros and cons for the [RFP: Decred Decentralized Exchange Infrastructure
 ](https://proposals.decred.org/proposals/5431da8ff4eda8cdbf8f4f2e08566ffa573464b97ef6d6bae78e749f27800d3a).
+
+@bee: I tried to give it a fair judgement but not claiming any neutrality. Contributions are welcome: I'll do my best to look from different perspectives and accept any changes I find reasonable.
 
 ## Pros
 
@@ -48,6 +50,10 @@ Non-custodial DEX may attract parties who stopped trading and left traditional e
 Additionally, the DEX can serve people whose trading options are very limited, e.g. residents of countries sanctioned by countries that host popular exchanges.
 
 > I am finding it more and more difficult to buy crypto w/o KYC and this has rendered many coins totally illiquid and worthless for me. I think it will be a great way to ensure that decred always remain available to those who need it most, i.e. people in countries that are having hyperinflation or banning things outright. this will give me a chance once again to accumulate more DCR even if the UX is not the best. (@sambiohazard on [2019-02-07](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$1549545680754qobLW:decred.org))
+
+### Pro: Server and client are held accountable
+
+Since client-server messages are signed, it is possible to publicly demonstrate misbehavior by servers and clients. This is an unmatched level of accountability compared to traditional exchanges, where it would be very hard to prove if the server e.g. silently removes (censors) a specific order.
 
 ### Pro: Attract talent and demonstrate the ethos of Decred (yet again)
 
@@ -102,15 +108,15 @@ Counter:
 
 ### Con: Expenses and Treasury
 
-Decred spends around ~$200K/month, DCR/USD is ~$15, Treasury is under $10M now. If DCR goes to $5 this DEX alone would be a huge burden. I'm not seeing any sign of market recovery and would prepare for the worst.
+As of Feb 2019, Decred spends around ~$200K/month, DCR/USD is ~$15 and the Treasury is under $10M. If DCR goes to $5 this DEX alone would be a huge burden. I'm not seeing any sign of market recovery and would prepare for the worst.
 
 If more parties joined in the expense this would be less of a problem, or no problem at all.
 
 Counter:
 
-* RFP by itself does not bind to expense. A second vote to approve a specific contractor's proposal will be necessary. It is possible that all such proposals will be voted down and no expense will be made. Therefore it is safe to proceed with the RFP to see what proposals will come, look at their plans, budgets and teams behind them.
+* RFP by itself does not bind to expense. People seem to overlook this important detail. A second vote to approve a specific contractor's proposal will be necessary. It is possible that all such proposals will be voted down and no expense will be made. Therefore it is safe to proceed with the RFP to see what proposals will come, look at their plans, budgets and teams behind them.
 * There will be no large upfront payment.
-* "Upper end cost of USD 1M was not intended to indicate that would be likely cost of the work, merely that we should not entertain proposals to build it for any amount greater than that." ([politeia](https://proposals.decred.org/proposals/5431da8ff4eda8cdbf8f4f2e08566ffa573464b97ef6d6bae78e749f27800d3a/comments/15))
+* "Upper end cost of USD 1M was not intended to indicate that would be likely cost of the work, merely that we should not entertain proposals to build it for any amount greater than that." (@jy-p on [politeia](https://proposals.decred.org/proposals/5431da8ff4eda8cdbf8f4f2e08566ffa573464b97ef6d6bae78e749f27800d3a/comments/15))
 * Second version of the proposal reduced the upper bound to USD 250,000.
 
 ### Con: It may slow down the development
@@ -120,6 +126,16 @@ Counter:
 > The intent is for an external team to take up the mantle and build it, so it won't have any bearing on the current c0 roadmap. The important thing to keep in mind is that the goal of Decred is to have a bunch of independent teams on working on different things. (@davecgh on [2018-06-06](https://matrix.to/#/!zxBsqZRxjbQoLqJRwe:decred.org/$152824144816749bQKqt:decred.org))
 
 Question is to what extent current developers may be pulled away indirectly, by discussions and reviews.
+
+### Con: It won't directly benefit Decred/stakeholders/Treasury
+
+Noting this argument for completeness as it is often made and it actually spurred this analysis.
+
+Whether the DEX will benefit Decred depends on its adoption, which is an unknown. The risk is certainly present.
+
+Counter (taking the phrase out of context, but it applies to "this DEX is risky" argument):
+
+> if i let ppl fud me into not taking risks, we wouldn't have this wonderful decred (@jy-p on [2019-02-08](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$15496067642935kMrXk:decred.org))
 
 ## Challenges
 
