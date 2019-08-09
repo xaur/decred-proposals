@@ -1,6 +1,6 @@
 Updates 1:
 
-i2 have clarified that the loan figure in their proposal covers all required loans, so that is cut in half.
+i2 have clarified that the loan figure in their proposal covers all required loans, so that is cut in half. I am also now assuming that as Grapefruit does not mention a loan other than the DCR one that this covers their inventory requirements.
 
 Grapefruit have clarified that they would not charge trading fees to the Treasury, which sets their proposal apart from the other two because there is no additional unknown charge for trading fees to consider.
 
