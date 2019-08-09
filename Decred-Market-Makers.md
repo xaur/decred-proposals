@@ -1,4 +1,4 @@
-Updates 1:
+Update 1:
 
 i2 have clarified that the loan figure in their proposal covers all required loans, so that is cut in half. I am also now assuming that as Grapefruit does not mention a loan other than the DCR one that this covers their inventory requirements.
 
