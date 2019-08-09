@@ -1,3 +1,5 @@
+Update 2: Grapefruit have confirmed that the only loan they require is the DCR one. Added note about no layering on Grapefruit offer.
+
 Update 1:
 
 i2 have clarified that the loan figure in their proposal covers all required loans, so that is cut in half. I am also now assuming that as Grapefruit does not mention a loan other than the DCR one that this covers their inventory requirements.
@@ -67,7 +69,7 @@ Total indicative cost for 6 months (trading fees would be added up to $20k/month
 
 **Offer:**
 
-2% spread (they also quote figures for 4%)
+2% spread (they also quote figures for 4%), no layering means no offers close to the current price (other proposals offer $5/10k within 1%).
 
 $30k each side
 
