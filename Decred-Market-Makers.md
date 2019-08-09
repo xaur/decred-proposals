@@ -1,8 +1,16 @@
-Summary of the quantitative aspects of the Market Maker proposals. Estimated costs are based on $30/DCR. I don't know what a good estimate of trading fees would be, but they would also be billed to the Treasury, the i2 proposal caps this at $20k/month but does not expect to reach that limit.
+Updates 1:
+
+i2 have clarified that the loan figure in their proposal covers all required loans, so that is cut in half.
+
+Grapefruit have clarified that they would not charge trading fees to the Treasury, which sets their proposal apart from the other two because there is no additional unknown charge for trading fees to consider.
+
+## Market Maker proposal cost estimates
+
+Estimated costs are based on $30/DCR. I don't know what a good estimate of trading fees would be, but they would also be billed to the Treasury by i2 and Altonomy, the i2 proposal caps this at $20k/month but does not expect to reach that limit.
 
 ### Altonomy
 
-- Middle price, liquidity not as tight around the price as i2, most pairs, highest uptime
+- Most expensive (due to higher inventory requirements), liquidity not as tight around the price as i2, most pairs, highest uptime
 
 **Offer:**
 
@@ -16,7 +24,7 @@ Layered depth, $5k/1%, $20k/2%, $50k/5%
 
 **Cost:**
 
-USD 30k/month + 1k DCR ($30k) onboarding = $210k for 6 months
+USD 30k/month + 1k DCR ($30k) onboarding = $210k for 6 months or $35k/month
 
 **Loans:**
 
@@ -24,13 +32,13 @@ USD 30k/month + 1k DCR ($30k) onboarding = $210k for 6 months
 
 70k USD per pair - 700k USD for 10 pairs, assume monthly interest of 1% = $42k
 
-Total indicative cost for 6 months (excluding trading fees): **$295,000**
+Total indicative cost for 6 months (trading fees would be added): **$295,000**
 
 
 
 ### i2 Trading
 
-- Most expensive, highest liquidity close to trading price
+- Highest liquidity close to trading price
 
 **Offer:**
 
@@ -50,15 +58,12 @@ USD 40k/month = $240k for 6 months
 
 5k DCR/pair = 30k DCR for 6 pairs = 900k USD, assume monthly interest of 0.8% = $43k
 
-Unknown BTC/USD loan requirement
-
-Total indicative cost for 6 months (assuming BTC/USD loan costs same as DCR loan: **$326,000**
-
+Total indicative cost for 6 months (trading fees would be added up to $20k/month): **$283,000**
 
 
 ### Grapefruit Trading
 
-- Cheaper, looser spread, lower liquidity, less uptime
+- Cheaper, looser spread, lower liquidity, less uptime. Only proposal which does not require reimbursement of trading fees.
 
 **Offer:**
 
@@ -78,7 +83,5 @@ $40k/month = $240k for 6 months
 
 $90k/pair = 12k DCR or $360k, assume monthly interest of 0.8% = $17k
 
-Unknown BTC/USD loan requirement
-
-Total indicative cost for 6 months (assuming BTC/USD loan costs same as DCR loan: **$274,000**
+Total indicative cost for 6 months (including trading fees) : **$257,000**
 
