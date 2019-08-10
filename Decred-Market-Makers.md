@@ -67,7 +67,7 @@ Total indicative cost for 6 months (trading fees would be added up to $20k/month
 
 ### Grapefruit Trading
 
-- Cheaper, looser spread, lower liquidity, less uptime. Only proposal which does not require reimbursement of trading fees.
+- Cheaper, lower liquidity, less uptime. Only proposal which does not require reimbursement of trading fees.
 
 **Offer:**
 
