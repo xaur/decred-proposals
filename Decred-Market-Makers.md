@@ -1,3 +1,5 @@
+Update 3: Grapefruit's offer is framed differently (in terms of "bid to ask") to the others (in terms of the spread from mid) - so 2% bid to ask is largely equivalent to 1% spread, except that the offer could be asymetrical around the price. This [comment](https://proposals.decred.org/proposals/4becbe00bd5ae93312426a8cf5eeef78050f5b8b8430b45f3ea54ca89213f82b/comments/5) explains it.
+
 Update 2: Grapefruit have confirmed that the only loan they require is the DCR one. Added note about no layering on Grapefruit offer.
 
 Update 1:
@@ -69,7 +71,7 @@ Total indicative cost for 6 months (trading fees would be added up to $20k/month
 
 **Offer:**
 
-2% spread (they also quote figures for 4%), no layering means no offers close to the current price (other proposals offer $5/10k within 1%).
+2% bid to ask spread (they also quote figures for 4%), which is equivalent to the 1% spread level (from current price) as the other proposals quote it.
 
 $30k each side
 
