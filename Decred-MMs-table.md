@@ -1,7 +1,7 @@
 |                        | Altonomy | i2 Trading | Grapefruit tight | Grapefruit loose |
 |------------------------|----------|------------|------------|------------|
 | Liquidity (each side)	 | $50k     | $50k       | $30k       |    $30k      |
-| Pairs                  | 10       | 6          | 4               4         |
+| Pairs                  | 10       | 6          | 4          |     4         |
 | Total liquidity (e/s)  | $500k    | $300k      | $120k      |    $120k     |
 | Spread                 |$5k/1%,$20k/2%,$50k/5%|$10k/1%,$30k/2%,$50k/4%| $30k 1% (flexible)|$30k 2% (flexible)|
 | Uptime                 | 100%  	|    90%     |    80%     |      80%     |
