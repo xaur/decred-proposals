@@ -6,7 +6,7 @@ Proposals:
 
 Aux docs:
 
-* [DEX parts](https://gist.github.com/chappjc/20e33c864e81dc64ba8b1e626dedfd1f) by @chappjc
+* [DEX parts](dex-parts.md) by @chappjc
 
 Analysis:
 
