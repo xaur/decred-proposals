@@ -1,13 +1,18 @@
+---
+author: chappjc
+published_date: 2019-08-05
+---
+
 ### Development Domains
 
 - DEX server (daemon only, no web interface)
 - DEX client (for user mgmt, placing orders, pulling/displaying market data, communication between DEX server and two or more assets' wallets, control of the wallets, monitoring for transactions on multiple chains ideally via wallet passthrough but perhaps direct chain server connection) -- note that assets should be configurable in some general way such as RPC config and function-to-RPC spec.
-	* command line UI (min viable)
-	* simple web-based UI?
-	* electron-based GUI like Decrediton (future)
+  * command line UI (min viable)
+  * simple web-based UI?
+  * electron-based GUI like Decrediton (future)
 - wallet modifications
-	* for dcrwallet, ...
-	* for btcwallet (assuming we're using this BTC wallet), ... 
+  * for dcrwallet, ...
+  * for btcwallet (assuming we're using this BTC wallet), ... 
 
 ### Server Components
 
