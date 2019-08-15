@@ -1,4 +1,10 @@
-# Analysis of Decred DEX proposal
+---
+author: bee
+published_date: 2019-02-28
+updated_date: 2019-08-15
+---
+
+# Pros-Cons Analysis of Decred DEX Proposal
 
 Personal collection of pros and cons for the [RFP: Decred Decentralized Exchange Infrastructure
 ](https://proposals.decred.org/proposals/5431da8ff4eda8cdbf8f4f2e08566ffa573464b97ef6d6bae78e749f27800d3a).
