@@ -85,6 +85,14 @@ If it becomes possible to trade without feeding surveillance, that would be a bo
 
 (triggered by @karamble's [message](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$1549516985493pQmpJ:decred.org))
 
+### Pro: Facilitate transparent cross-coin LN payments
+
+> > Is there a foreseeable role for lightning to play in the decred dex?
+> 
+> Once the onchain DEX is online and we have a decentralized mechanism for price discovery, this could be fed into the routing decisions of LN nodes in a multi-coin LN, allowing transparent cross-coin payments.
+> 
+> One hypothetical way to realize this would be to have channels marked as cross-chain with a swap fee expressed as a % from the average price of the last DEX epoch and nodes use this information for routing decisions based on the max fee for a given payment. (@matheusd on [2019-08-08](https://proposals.decred.org/proposals/417607aaedff2942ff3701cdb4eff76637eca4ed7f7ba816e5c0bd2e971602e1/comments/5))
+
 ### Pro: This is bold
 
 > Approving this proposal would signal that stakeholders want to see the project making bold moves that advance the whole space. (@richardred in [investinblockchain.com](https://www.investinblockchain.com/is-decred-dcr-building-decentralized-exchange/) article)
