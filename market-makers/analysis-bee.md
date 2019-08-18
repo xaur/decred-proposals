@@ -118,3 +118,11 @@ Counter-arguments:
 
 > user39390: may be a read-only api key access to verify trading activity of MM, just saying. not sure if possible :)  
 > i2trading: I think we would be open to this as long as it stayed in the hands of a key DCR rep and nobody else. (chat on [2019-08-08](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$156527909310923oaewi:decred.org))
+
+### Do you make profit?
+
+> Intuitively, we can make profits with our market making strategies by buying low from one client and selling high to another client because our high frequency strategy can make decisions within milliseconds, much faster than normal people especially when market moves a lot.
+> 
+> However, the profit we gain is generated from the market, which means, we take profits from you, from the Decred community. The more profits we gain, the more money you guys lose.
+> 
+> We're here to help Decred communities, to let more people involve and let those who got interested recently can get a chance to have their own DCR tokens and join the community. It's not fair for them to pay a higher price and lose money, that is why we decide to gain $0 profit from the market. (@runchen of Altonomy on [2019-08-08](https://proposals.decred.org/proposals/772d083fef79fa2e443d8424b353deadc3af69c8d8764e473cb200f98f356c60/comments/7))
