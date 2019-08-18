@@ -16,6 +16,10 @@ Special case of the above, but is worth an explicit mention.
 
 > With the increased liquidity and volumes, the asset will become available to a new class of investors, particularly institutional investors with strict liquidity requirements in their holdings. Where today, even if these investors had an interest in Decred, would be barred or limited in the size of holding due to the lack of liquidity available today. (@jyashouafar on [2019-08-13](https://proposals.decred.org/proposals/30822c16533890abc6e243eb6d12264b207c3923c14af42cd9b883e71c7003cd/comments/36))
 
+### Pro: Make Decred more visible
+
+> With higher volume numbers, more people will see DCR and some exchanges might consider listing DCR on their platform. (u/GrapefruitTrading on [2019-08-09](https://www.reddit.com/r/decred/comments/cnmc0o/market_making_proposal_grapefruit_trading/ewffhwv/))
+
 ### Pro: Stabilize the market
 
 > Not matter how much DCR price has changed, we will always be there (as we signed the contract). We can be the last guy you can find in the market to trade with. We provide liquidity and provide our protect to stabilize the market (@runchen of Altonomy on [2019-08-08](https://proposals.decred.org/proposals/772d083fef79fa2e443d8424b353deadc3af69c8d8764e473cb200f98f356c60/comments/14))
