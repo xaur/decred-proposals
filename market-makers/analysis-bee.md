@@ -46,6 +46,7 @@ MM cost [varies](https://github.com/RichardRed0x/politeia-digest/blob/master/iss
 
 Discussions:
 
+* [2019-08-05](https://www.reddit.com/r/decred/comments/cm2uw1/decred_only_needs_one_market_maker/ew1jp6y/): subsidizing MM action will lower Decred's "regulatory compliance score", on the other hand SEC has bigger fish to fry atm and by the time they get to Decred the Treasury may be (more) decentralized 
 * [2019-08-09](https://proposals.decred.org/proposals/2eb7ddb29f151691ba14ac8c54d53f6692c1f5e8fe06244edf7d3c33fb440bd9/comments/25): this concern only applies to securities and there are no clear regulatory guidelines
 * [2019-08-10](https://proposals.decred.org/proposals/30822c16533890abc6e243eb6d12264b207c3923c14af42cd9b883e71c7003cd/comments/5): MMs will only provide maker liquidity; whether DCR is a security
 
