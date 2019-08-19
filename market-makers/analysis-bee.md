@@ -46,6 +46,10 @@ Counter-arguments:
 
 > people are saying "it is an experiment", but the proposals are not set-up with the scope, timeline, or cost structure of an experiment (@betterfuture on [2019-08-11](https://proposals.decred.org/proposals/30822c16533890abc6e243eb6d12264b207c3923c14af42cd9b883e71c7003cd/comments/19))
 
+### Pro: Industry first
+
+> I'm particularly excited about how we're going to take what's usually a process conducted behind smoke filled rooms, and opening it up to a transparent manner that's decided by stakeholders (@max\_bronstein on [2019-08-02](https://matrix.to/#/!MgQoetFiyjrHAywokv:decred.org/$15647801425402KFLJg:decred.org))
+
 ## Cons
 
 ### Con: Too expensive
@@ -59,6 +63,10 @@ MM cost [varies](https://github.com/RichardRed0x/politeia-digest/blob/master/iss
 > If all top coins in cryptospace hiring them doesnt mean its the right way to go. Communities of those coins never being asked what ppl think about hiring them. (@rickshaw on [2019-08-15](https://proposals.decred.org/proposals/30822c16533890abc6e243eb6d12264b207c3923c14af42cd9b883e71c7003cd/comments/41))
 
 ## Concerns
+
+### Concern: Unethical practices
+
+> I totally understand there is natural apprehension to market makers, especially in crypto given some of their previous practices, but I want to assure you we only engaged top tier firms with strong track records and a lot of skin in the game. (@max\_bronstein on [2019-08-02](https://matrix.to/#/!MgQoetFiyjrHAywokv:decred.org/$15647802945405aYWkA:decred.org))
 
 ### Concern: Paid MM may attract attention from regulators
 
@@ -168,6 +176,16 @@ Monthly fee:
 
 ### What are success metrics?
 
+> All of the proposals have KPIs attached to them, this is how the community will judge their performance. Commons KPIs include:
+> 
+> 1.$ amount needed to clear X% on either bid/ask. What this means is that an investor could lets say purchase/sell $30,000 USD without moving the price up or down
+> 2. % spread between the first bid/asks, meaning first buy order and first sell order on the books
+> 3. % uptime of market making software, essentially, how often is the system actually on the books
+> 
+> In the case that the community wants to add certain KPIs, that can be done before these proposals go live and after the 6 month term is up. I suspect the value of the MMs will be pretty apparent after the first 6 month term. Theoretically, the holder base should grow *IF* liquidity was a problem as we expected. If holder numbers don’t grow, liquidity wasn’t the issue.
+> 
+> Overall, the goal of a market maker is to make it easy for buyers and sellers to transact with little slippage. By no means are they attempting to move the price in one direction, we explicitly only engaged firms with strong reputations and strong past performance. (@max\_bronstein on [2019-08-04](https://matrix.to/#/!MgQoetFiyjrHAywokv:decred.org/$15648896736066fvsxu:decred.org))
+
 > One of the first things we made clear to the team was that we would not be able to guarantee any volume numbers unlike some of our Asian counterparts. We are based in the US and are a wholly owned subsidiary of a traditional finance firm. As such, we do not engage in wash trading or any activities that are frowned upon by the CFTC. We will only guarantee width/size/uptime. (@grapefruittrading on [2019-08-08](https://proposals.decred.org/proposals/4becbe00bd5ae93312426a8cf5eeef78050f5b8b8430b45f3ea54ca89213f82b/comments/6))
 
 > Tighter spreads, lower price volatility, and ideally higher volume. I think i2 estimated to hit $20k/mo in exchange fees they would need to be doing $20M of volume. That would be a resounding success in my view. (@jz on [2019-08-18](https://proposals.decred.org/proposals/30822c16533890abc6e243eb6d12264b207c3923c14af42cd9b883e71c7003cd/comments/65))
@@ -175,6 +193,8 @@ Monthly fee:
 > > Will someone try to monitor the trades and analyze if MM was the real problem, and not the general lack of interest and market awareness (as suggested in [this comment](https://proposals.decred.org/proposals/30822c16533890abc6e243eb6d12264b207c3923c14af42cd9b883e71c7003cd/comments/20))?
 > 
 > Proving causality is always hard, I can just imagine price rallying or falling and people assuming MM is amazing or the devil. Metrics for success have to do with spreads, slippage, and total volume traded. (@jz on [2019-08-18](https://proposals.decred.org/proposals/30822c16533890abc6e243eb6d12264b207c3923c14af42cd9b883e71c7003cd/comments/65))
+
+[CoinMarketBook](https://coinmarketbook.cc/) argues "Market cap is a lie. Buy support tells the true story". As of 2019-08-19, DCR is #95 in that rating with only $260K of buy support at 10% distance from highest bid price. For context: BTC has $360M, ETH $55M, LTC $23M, XMR $9.5M, DASH $5.7M, DOGE $4.6M.
 
 ### How will MM report?
 
