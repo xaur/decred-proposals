@@ -8,6 +8,7 @@ Proposals:
 Analysis:
 
 * overview and comparison table in [Politeia Digest 20](https://github.com/RichardRed0x/politeia-digest/blob/master/issue-020.md) by @richardred
+* [video overview](https://www.youtube.com/watch?v=BKSMA-eanoY) of the proposals by @Exittus
 
 Discussions:
 
