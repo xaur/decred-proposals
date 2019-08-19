@@ -12,8 +12,9 @@ Analysis:
 
 Discussions:
 
-* [2019-08-02](https://matrix.to/#/!MgQoetFiyjrHAywokv:decred.org/$15647776675370wAjSd:decred.org): first announcement in #proposals of the upcoming 4 market maker proposals
+* [2019-08-02](https://matrix.to/#/!MgQoetFiyjrHAywokv:decred.org/$15647776675370wAjSd:decred.org): first announcement in #general of the upcoming 4 market maker proposals; liquidity is key for SoV, natural suspicion of crypto MMs
 * [2019-08-02](https://www.reddit.com/r/decred/comments/cl9pgt/market_makers_are_coming_to_decred/): Market Makers Are Coming To Decred!
 * [2019-08-04](https://www.reddit.com/r/decred/comments/cm2uw1/decred_only_needs_one_market_maker/): Decred only needs one market maker
+* [2019-08-04](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$15649350976189WUFZL:decred.org): multi-day chat in #proposals; voting system to choose one out of many, whether we should hire multiple MMs and many other topics
 * [2019-08-07](https://www.reddit.com/r/decred/comments/cnci6k/3_market_maker_proposals_and_a_dex_development/): 3 Market Maker proposals and a DEX Development proposal on Politeia; cost estimation and comparison, choosing which exchanges to provide liquidity with
 * [2019-08-08](https://www.reddit.com/r/decred/comments/cnmc0o/market_making_proposal_grapefruit_trading/): Market Making Proposal Grapefruit Trading
