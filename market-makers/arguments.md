@@ -65,7 +65,7 @@ Counter-arguments:
 
 > people are saying "it is an experiment", but the proposals are not set-up with the scope, timeline, or cost structure of an experiment (@betterfuture on [2019-08-11](https://proposals.decred.org/proposals/30822c16533890abc6e243eb6d12264b207c3923c14af42cd9b883e71c7003cd/comments/19))
 
-  * see "Can we start small..." in the Q & A about reducing scope and cost
+See also Q&A -> "Can we start small..." about reducing scope and cost.
 
 ### Pro: Industry first transparency
 
@@ -82,6 +82,8 @@ MM cost [varies](https://github.com/RichardRed0x/politeia-digest/blob/master/iss
 ### Con: Coins should not pay for MM
 
 > If all top coins in cryptospace hiring them doesnt mean its the right way to go. Communities of those coins never being asked what ppl think about hiring them. (@rickshaw on [2019-08-15](https://proposals.decred.org/proposals/30822c16533890abc6e243eb6d12264b207c3923c14af42cd9b883e71c7003cd/comments/41))
+
+See also Q&A -> "Why exchanges don't pay for MM...".
 
 ## Concerns
 
@@ -225,7 +227,7 @@ Monthly fee:
 
 > All of the proposals have KPIs attached to them, this is how the community will judge their performance. Commons KPIs include:
 > 
-> 1.$ amount needed to clear X% on either bid/ask. What this means is that an investor could lets say purchase/sell $30,000 USD without moving the price up or down
+> 1. $ amount needed to clear X% on either bid/ask. What this means is that an investor could lets say purchase/sell $30,000 USD without moving the price up or down
 > 2. % spread between the first bid/asks, meaning first buy order and first sell order on the books
 > 3. % uptime of market making software, essentially, how often is the system actually on the books
 > 
