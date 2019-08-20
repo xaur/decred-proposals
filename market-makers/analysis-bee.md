@@ -1,4 +1,4 @@
-This is a compilation of arguments discussed related to market making proposals.
+This is a compilation of arguments, concerns and questions about market making proposals.
 
 ## Pros
 
