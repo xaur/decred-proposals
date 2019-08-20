@@ -6,6 +6,8 @@ This is a compilation of arguments discussed related to market making proposals.
 
 Better liquidity helps Decred's [positioning](https://github.com/decredcommunity/pr/blob/release/foundational-messaging.md) as store of value and medium of exchange.
 
+> Liquidity is a pressing issue and it's a lacuna in DCR's proposition as a SoV. There's no SoV without liquidity. If I told you: you can keep gold in my vault, but you'll need to pay me 15-20% if you want it out quickly... Would you store the gold in my vault? It's really simple to explain this value proposition. (@Praxis on [2019-08-08](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$156529052611305mfsjk:decred.org))
+
 > A coin targeting the store of value (SoV) market needs to reduce entry and exit friction as much as possible in order to build market confidence. Likewise, greater market stability will be conducive to more broad usage of DCR as a medium of exchange (MoE). (@jz on [2019-08-10](https://proposals.decred.org/proposals/30822c16533890abc6e243eb6d12264b207c3923c14af42cd9b883e71c7003cd))
 
 > Another driving factor in our pursuit was the fact that an asset positioned to capture the SoV market needs liquidity. If an asset isn’t investable, I.e. liquid enough for investors to move in/out of, it can’t compete with other SoV contenders in the market. If you look back at Chris Burniske’s work on the institutional investors case for BTC, he notes that inevitability is one of the hall marks of any asset, and as such, we must prioritize DCR’s liquidity if we expect it to be an SoV. This issue is particularly exacerbated by the fact the DCR has such a high stake rate. (@maxbronstein on [2019-08-12](https://proposals.decred.org/proposals/30822c16533890abc6e243eb6d12264b207c3923c14af42cd9b883e71c7003cd/comments/29))
@@ -24,6 +26,15 @@ Special case of the above, but is worth an explicit mention.
 
 ### Pro: Attract more investors
 
+> In traditional markets, investors / traders generally favor assets with good liquidity. Assets that have poor liquidity are discounted due to iliquidity. (@enchanted\_broccoli on [2019-08-07](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$156519089713141yprlR:matrix.org))
+
+> It reduces the barriers for opening and closing decred positions. Nobody wants to sit on Binance for hours sniping bids just to buy $10k of dcr. This inconvience is enough to discourage people from buying and holding dcr. (@lukebp on [2019-08-08](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$156528505111123gtEUw:decred.org))
+
+> jz: Think of it this way; a MM is going to do for the price chart of Decred what the new sdiff algo did for the ticket price chart. It won't suspend market forces, it will smooth them and improve UX.  
+> jz: Oscillation scares people.  
+> checkmatey_: it comes down to confidence. How confident can you be that at any time when you need to get on/off, you wont get burned by slippage  
+> jz: Exactly. All money is about _confidence_. (chat on [2019-08-10](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$156545679913393mNRKs:decred.org))
+
 > The need for an MM quickly arose as I began speaking with a number of institutional investors here in Silicon Valley. While Decred isn’t yet a household name, most researchers who spent time looking into the project were quite intrigued and were quickly interested in becoming stakeholders. Time and time again, I heard issues around DCR’s liquidity. The inability to acquire a large position wasn’t the main deterrent, but rather the inability to get out of a position once acquired as well as what illiquidity said about market sentiment. Investors know many times markets are forced to contract, and when they do, the most illiquid assets behave poorly. Not because of fundamentals, but purely because the market can’t absorb the selling pressure. Similarly, investors have to weigh current liquidity in their research as a measure of sentiment and demand. (@maxbronstein on [2019-08-12](https://proposals.decred.org/proposals/30822c16533890abc6e243eb6d12264b207c3923c14af42cd9b883e71c7003cd/comments/29))
 
 > With the increased liquidity and volumes, the asset will become available to a new class of investors, particularly institutional investors with strict liquidity requirements in their holdings. Where today, even if these investors had an interest in Decred, would be barred or limited in the size of holding due to the lack of liquidity available today. (@jyashouafar on [2019-08-13](https://proposals.decred.org/proposals/30822c16533890abc6e243eb6d12264b207c3923c14af42cd9b883e71c7003cd/comments/36))
@@ -36,17 +47,27 @@ Special case of the above, but is worth an explicit mention.
 
 > With higher volume numbers, more people will see DCR and some exchanges might consider listing DCR on their platform. (u/GrapefruitTrading on [2019-08-09](https://www.reddit.com/r/decred/comments/cnmc0o/market_making_proposal_grapefruit_trading/ewffhwv/))
 
+> One of the first questions I'm usually asked when negotiating exchange listings is "do you have a market maker?", followed by "will you hire one?", exchanges don't like listing assets that have no pulse. (@jz on [2019-08-14](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$156574882117342AbrKV:decred.org))
+
+### Pro: Possibly protect from delistings
+
+Some exchanges [delist](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$156580825517926esBUo:decred.org) assets that don't have X volume per Y time. In case MM happens to increase trading volume, it will be an extra protection from delisting.
+
 ### Pro: Stabilize the market
 
 > Not matter how much DCR price has changed, we will always be there (as we signed the contract). We can be the last guy you can find in the market to trade with. We provide liquidity and provide our protect to stabilize the market (@runchen of Altonomy on [2019-08-08](https://proposals.decred.org/proposals/772d083fef79fa2e443d8424b353deadc3af69c8d8764e473cb200f98f356c60/comments/14))
 
 ### Pro: Experiment to try
 
+> it's a spaghetti launch - it's not at all clear it will have a positive effect, but you can't know until you do it (@jy-p on [2019-08-15](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$156589816719413SfIct:decred.org))
+
 Counter-arguments:
 
 > people are saying "it is an experiment", but the proposals are not set-up with the scope, timeline, or cost structure of an experiment (@betterfuture on [2019-08-11](https://proposals.decred.org/proposals/30822c16533890abc6e243eb6d12264b207c3923c14af42cd9b883e71c7003cd/comments/19))
 
-### Pro: Industry first
+  * see "Can we start small..." in the Q & A about reducing scope and cost
+
+### Pro: Industry first transparency
 
 > I'm particularly excited about how we're going to take what's usually a process conducted behind smoke filled rooms, and opening it up to a transparent manner that's decided by stakeholders (@max\_bronstein on [2019-08-02](https://matrix.to/#/!MgQoetFiyjrHAywokv:decred.org/$15647801425402KFLJg:decred.org))
 
@@ -90,11 +111,17 @@ Discussions:
 
 > Why can't MMs come to the table with the same 'fight club' mentality that characterizes the rest of the Decred contractor community and prove they can add value before asking for professional comp levels? (@betterfuture on [2019-08-11](https://proposals.decred.org/proposals/30822c16533890abc6e243eb6d12264b207c3923c14af42cd9b883e71c7003cd/comments/19))
 
+### Concern: MM may crash the price
+
+> I suppose the bet being made here for the average DCR holder is whether the current illiquidity is preventing more potential buyers from entering the market or preventing more potential sellers from exiting. (@scooter_d on [2019-08-10](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$1565456063985982kjCCC:matrix.org))
+
 ## Q & A
 
 ### Why exchanges don't pay for MM instead?
 
 > MM is so common in the equity market, even Apple and Google have their market makers providing liquidity to their stakeholders. (@runchen of Altonomy on [2019-08-09](https://proposals.decred.org/proposals/772d083fef79fa2e443d8424b353deadc3af69c8d8764e473cb200f98f356c60/comments/18))
+
+> In almost all cases BTC and other large cap coins have had market making. In some cases it was funded by the foundation and in others it was funded by the exchange. We have seen it both ways. (@grapefruittrading on [2019-08-09](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$1565377390653439tTuzU:matrix.org))
 
 > \[They should\] but the reality is exchanges have the power and don't care about low volume coins. I suspect every coin in the top 20 by market cap has MMs operating. (@jz on [2019-08-19](https://proposals.decred.org/proposals/30822c16533890abc6e243eb6d12264b207c3923c14af42cd9b883e71c7003cd/comments/66))
 
@@ -103,6 +130,8 @@ Discussions:
 > Most coins would not ever admit to engaging a MM. We have very little data for comps. (@jz on [2019-08-18](https://proposals.decred.org/proposals/30822c16533890abc6e243eb6d12264b207c3923c14af42cd9b883e71c7003cd/comments/64))
 
 ### Why help the whales? + Why not just use OTC?
+
+> A MM doesn't magically create an exit for whales, if we don't grow volume/mkt cap in addition to fixing liquidity whales are never getting off their positions if that's their intent. (@jz on [2019-08-10](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$156545668913387IQHzZ:decred.org))
 
 > it's incorrect to characterize this as "subsidizing whales". We're talking about an amount of depth that would amount to a rounding error for a large player were they to accumulate a DCR position. This will really have more impact for small traders and those wishing to use DCR in transactions. For bigger players that build positions over time it will help to smooth the oscillations that we often see in the market. (@jz on [2019-08-11](https://proposals.decred.org/proposals/30822c16533890abc6e243eb6d12264b207c3923c14af42cd9b883e71c7003cd/comments/17))
 
@@ -128,7 +157,25 @@ Monthly fee:
 
 > The expensive part is the fact that you are potentially incurring small losses and exchange fees. The bids/asks are all spread out in an automated manner. (@jz on [2019-08-19](https://proposals.decred.org/proposals/30822c16533890abc6e243eb6d12264b207c3923c14af42cd9b883e71c7003cd/comments/66))
 
+### Does MM make profit?
+
+> If it were profitable someone would _already_ be doing it. (@jz on [2019-08-06](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$15651272678513OeVzY:decred.org))
+
+> The DCR market is so illiquid and trades so little that making markets for it, and providing the kind of depth that we are offering will most likely result in trading losses. (@i2trading on [2019-08-07](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$15651885699101HYJcG:decred.org))
+
+> Intuitively, we can make profits with our market making strategies by buying low from one client and selling high to another client because our high frequency strategy can make decisions within milliseconds, much faster than normal people especially when market moves a lot.
+> 
+> However, the profit we gain is generated from the market, which means, we take profits from you, from the Decred community. The more profits we gain, the more money you guys lose.
+> 
+> We're here to help Decred communities, to let more people involve and let those who got interested recently can get a chance to have their own DCR tokens and join the community. It's not fair for them to pay a higher price and lose money, that is why we decide to gain $0 profit from the market. (@runchen of Altonomy on [2019-08-08](https://proposals.decred.org/proposals/772d083fef79fa2e443d8424b353deadc3af69c8d8764e473cb200f98f356c60/comments/7))
+
+> > In case the MM manages to make profit during his activity, will it go back to Treasury or make a discount for the next month?
+> 
+> Great question, we can negotiate this but since I'm not willing to share in potential losses they may incur it's probably not acceptable for them to share profit. They will not be making a market with the intention of having net profits though. (@jz on [2019-08-18](https://proposals.decred.org/proposals/30822c16533890abc6e243eb6d12264b207c3923c14af42cd9b883e71c7003cd/comments/63))
+
 ### Can we start small and ramp up the expense later?
+
+> Since we have no start up costs, we are trying to have a fixed monthly cost. For us reducing the number of pairs will of course reduce the amount of monitoring, complexity, and risk for us. But it will also reduce the amount of liquidity in the market. Costs per month would go down from an interest perspective if you reduced the pairs. As a DCR stakeholder ourselves, we were extremely thoughtful about how many pairs to provide and on which exchanges.  Our goal is the same as yours.  The currenty liquidity issue is unnerving.  Reducing the number of crosses could result in a slightly lower price, but it wouldn't really be worth it. (@i2trading on [2019-08-08](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$156527367010708ernvV:decred.org))
 
 > Yes but we need to balance that with something that can actually be effective and is worth doing for the service provider. (@jz on [2019-08-18](https://proposals.decred.org/proposals/30822c16533890abc6e243eb6d12264b207c3923c14af42cd9b883e71c7003cd/comments/65))
 
@@ -208,17 +255,5 @@ Monthly fee:
 
 > We trade through API. The account itself is completely transparent to the team. Team will have login to view everything. We have nothing to hide. (@runchen of Altonomy on [2019-08-14](https://proposals.decred.org/proposals/772d083fef79fa2e443d8424b353deadc3af69c8d8764e473cb200f98f356c60/comments/38))
 
-> user39390: may be a read-only api key access to verify trading activity of MM, just saying. not sure if possible :)  
-> i2trading: I think we would be open to this as long as it stayed in the hands of a key DCR rep and nobody else. (chat on [2019-08-08](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$156527909310923oaewi:decred.org))
-
-### Does MM make profit?
-
-> Intuitively, we can make profits with our market making strategies by buying low from one client and selling high to another client because our high frequency strategy can make decisions within milliseconds, much faster than normal people especially when market moves a lot.
-> 
-> However, the profit we gain is generated from the market, which means, we take profits from you, from the Decred community. The more profits we gain, the more money you guys lose.
-> 
-> We're here to help Decred communities, to let more people involve and let those who got interested recently can get a chance to have their own DCR tokens and join the community. It's not fair for them to pay a higher price and lose money, that is why we decide to gain $0 profit from the market. (@runchen of Altonomy on [2019-08-08](https://proposals.decred.org/proposals/772d083fef79fa2e443d8424b353deadc3af69c8d8764e473cb200f98f356c60/comments/7))
-
-> > In case the MM manages to make profit during his activity, will it go back to Treasury or make a discount for the next month?
-> 
-> Great question, we can negotiate this but since I'm not willing to share in potential losses they may incur it's probably not acceptable for them to share profit. They will not be making a market with the intention of having net profits though. (@jz on [2019-08-18](https://proposals.decred.org/proposals/30822c16533890abc6e243eb6d12264b207c3923c14af42cd9b883e71c7003cd/comments/63))
+> user39390: may be a read-only api key access to verify trading activity of MM  
+> i2trading: I think we would be open to this as long as it stayed in the hands of a key DCR rep and nobody else. There is risk for us if a bad actor was able to gain access. (chat on [2019-08-08](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$156527909310923oaewi:decred.org))
