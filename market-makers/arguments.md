@@ -147,6 +147,15 @@ For an index of "regulatory uncertainty" discussions see [this issue](https://gi
 
 > I suppose the bet being made here for the average DCR holder is whether the current illiquidity is preventing more potential buyers from entering the market or preventing more potential sellers from exiting. (@scooter\_d on [2019-08-10](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$1565456063985982kjCCC:matrix.org))
 
+### Concern: This will onboard wrong people
+
+The [concern](https://proposals.decred.org/proposals/30822c16533890abc6e243eb6d12264b207c3923c14af42cd9b883e71c7003cd/comments/73) is that if an investor has studied Decred but got turned away by poor liquidity, he doesn't care much about Decred's mission and values and will likely be a bad stakeholder.
+
+Counter-arguments:
+
+* Better liquidity [helps all](https://proposals.decred.org/proposals/30822c16533890abc6e243eb6d12264b207c3923c14af42cd9b883e71c7003cd/comments/82), not just speculators.
+* Side note: comforting those who have liquidity as top priority is a bad selling point for MM.
+
 ## Q & A
 
 ### Why exchanges don't pay for MM instead?
