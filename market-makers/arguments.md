@@ -1,5 +1,9 @@
 This is a compilation of arguments, concerns and questions about market making proposals.
 
+* pros and cons: arguments that many agree will benefit/be bad for Decred
+* concerns: uncertainties where opinions have diverged
+* Q & A: answers to common questions
+
 ## Pros
 
 ### Pro: Strengthen SoV and MoE properties
@@ -55,9 +59,13 @@ Some exchanges [delist](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$1565
 
 ### Pro: Stabilize the market
 
+Stabilize here means smoothen the price swings, not control (pump or suppress) the price.
+
 > Not matter how much DCR price has changed, we will always be there (as we signed the contract). We can be the last guy you can find in the market to trade with. We provide liquidity and provide our protect to stabilize the market (@runchen of Altonomy on [2019-08-08](https://proposals.decred.org/proposals/772d083fef79fa2e443d8424b353deadc3af69c8d8764e473cb200f98f356c60/comments/14))
 
 ### Pro: Experiment to try
+
+There were debates about how much poor liquidity is responsible for Decred's low rank and adoption. Getting a trial of good liquidity may answer this question. If we buy good liquidity and nothing changes, the problem was elsewhere. If so, we can not renew the contract.
 
 Counter-arguments:
 
@@ -91,6 +99,8 @@ See also Q&A -> "Why exchanges don't pay for MM...".
 
 ### Concern: MM liquidity is not organic
 
+Summary: there are two things that can be inorganic - liquidity and volume. Some people mix up the two. Most agree that inorganic fake volume is bad. Opinions diverge whether liquidity provided by MM is organic or not.
+
 > it is creating inorganic liquidity, which is not created by any new users, holders, or stakers. I, personally, would like to see a more "grassroots" approach to liquidity, allowing it to organically increase as more and more people learn about the incredible value inherent in Decred's design. (@fort3hlulz on [2019-08-08](https://proposals.decred.org/proposals/4becbe00bd5ae93312426a8cf5eeef78050f5b8b8430b45f3ea54ca89213f82b/comments/10))
 
 Counter-arguments:
@@ -98,6 +108,10 @@ Counter-arguments:
 > We frequently provide OTC quotes in DCR. Our proposal would bring some of this liquidity to exchanges. It's by no means inorganic! DCR has had years to develop liquidity naturally, and currently on-exchange liquidity is low. For that reason, we were asked to develop a plan for increasing it. (@grapefruittrading on [2019-08-08](https://proposals.decred.org/proposals/4becbe00bd5ae93312426a8cf5eeef78050f5b8b8430b45f3ea54ca89213f82b/comments/14))
 
 > DCR liqiudity from a proper market maker is as "inorganic" as liquidity in a currency exchange office. Without it, you need to wait and/or actively find people willing to exchange your USD for EUR. Exchange office maintains buffers of both currencies and allows you to instantly convert from one to another. Market makers place new buy and sell orders but do not consume existing orders. They "make" orders, not "take". (@bee on [2019-08-18](https://proposals.decred.org/proposals/4becbe00bd5ae93312426a8cf5eeef78050f5b8b8430b45f3ea54ca89213f82b/comments/31))
+
+> degeri: If we go the MM route we might never grow an "organic" liquid market.  
+> jz: Bad news; it's never going to happen by itself, we're 3 years in and one of the least liquid coins. Not great for SoV or MoE.  
+> jy-p: it's not inorganic, it's standing limit orders that can be matched against by ppl entering and exiting a position. if they were matching against their own orders (wash trading), that would certainly be inorganic, but that is not what is under discussion (chat on [2019-08-09](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$156537647112429goDVY:decred.org))
 
 ### Concern: Unethical practices
 
