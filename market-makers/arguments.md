@@ -1,8 +1,8 @@
 This is a compilation of arguments, concerns and questions about market making proposals.
 
-* pros and cons: arguments that many agree will benefit/be bad for Decred
-* concerns: uncertainties where opinions have diverged
-* Q & A: answers to common questions
+* pros and cons: not too controversial arguments in favor and against the idea
+* concerns: uncertainties and issues where opinions have diverged
+* Q & A: answers to common questions, often from proposal owners
 
 ## Pros
 
@@ -55,7 +55,7 @@ Special case of the above, but is worth an explicit mention.
 
 ### Pro: Possibly protect from delistings
 
-Some exchanges [delist](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$156580825517926esBUo:decred.org) assets that don't have X volume per Y time. In case MM happens to increase trading volume, it will be an extra protection from delisting.
+Some exchanges [delist](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$156580825517926esBUo:decred.org) assets that don't have X volume in Y time. In case MM happens to increase trading volume, it will be an extra protection from delisting.
 
 ### Pro: Stabilize the market
 
@@ -65,7 +65,7 @@ Stabilize here means smoothen the price swings, not control (pump or suppress) t
 
 ### Pro: Experiment to try
 
-There were debates about how much poor liquidity is responsible for Decred's low rank and adoption. Getting a trial of good liquidity may answer this question. If we buy good liquidity and nothing changes, the problem was elsewhere. If so, we can not renew the contract.
+There were debates about how much poor liquidity is responsible for Decred's low rank and slow adoption. Getting a trial of good liquidity may answer this question. If we buy good liquidity and nothing changes, the problem was elsewhere. If so, we can not renew the contract.
 
 Counter-arguments:
 
@@ -79,11 +79,13 @@ See also Q&A -> "Can we start small..." about reducing scope and cost.
 
 ## Cons
 
-### Con: Too expensive
+### Con: It is expensive
 
 MM cost [varies](https://github.com/RichardRed0x/politeia-digest/blob/master/issue-020.md) between $31-47K per month, or $185-283K for 6 months.
 
 > Not counting the loaned collateral, these proposals tend to have an average monthly cost of roughly 10% of the current treasury inflow. If DCR prices were to dip back down to price levels seen earlier this year, that could quickly become 20% of the current treasury inflow. (@solar on [2019-08-11](https://proposals.decred.org/proposals/30822c16533890abc6e243eb6d12264b207c3923c14af42cd9b883e71c7003cd/comments/16))
+
+> I do not still understand why the urgent need to make market at such high cost to long term health of treasury while not even being sure if it will work. also either we are going to do this only for 6 months and hope that other will pick up the tab from there, which they are welcome to do right now or we will keep doing this forever at $600k/year, which is insane. (@sambiohazard on [2019-08-20](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$15663149652129YIrJZ:decred.org))
 
 ### Con: No guarantees, it may not work
 
@@ -91,15 +93,27 @@ MM cost [varies](https://github.com/RichardRed0x/politeia-digest/blob/master/iss
 
 ### Con: Coins should not pay for MM
 
+In traditional markets the common practice is for _exchanges_ to pay for MM because exchanges are best positioned to audit MM's results. Unfortunately, in crypto the reality is different.
+
 > If all top coins in cryptospace hiring them doesnt mean its the right way to go. Communities of those coins never being asked what ppl think about hiring them. (@rickshaw on [2019-08-15](https://proposals.decred.org/proposals/30822c16533890abc6e243eb6d12264b207c3923c14af42cd9b883e71c7003cd/comments/41))
 
-See also Q&A -> "Why exchanges don't pay for MM...".
+Counter-arguments:
+
+* See Q&A -> "Why exchanges don't pay for MM...".
+
+A related idea is that even if the coin pays, it [should not](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$15662825861717XfvmO:decred.org) come from its treasury but instead should be funded by large holders or miners.
+
+Counter-arguments:
+
+* Decred doesn't have a large central entity "holder" with ICO money or huge premine that it can throw at MMs. At the same time, honest responsible holders and miners do not always self-organize and act quickly. (@bee on [2019-08-20](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$15663050871865zIJqn:decred.org))
 
 ## Concerns
 
 ### Concern: MM liquidity is not organic
 
 Summary: there are two things that can be inorganic - liquidity and volume. Some people mix up the two. Most agree that inorganic fake volume is bad. Opinions diverge whether liquidity provided by MM is organic or not.
+
+For reference, liquidity is simply open orders while volume is born when those orders are consumed and the trade finishes.
 
 > it is creating inorganic liquidity, which is not created by any new users, holders, or stakers. I, personally, would like to see a more "grassroots" approach to liquidity, allowing it to organically increase as more and more people learn about the incredible value inherent in Decred's design. (@fort3hlulz on [2019-08-08](https://proposals.decred.org/proposals/4becbe00bd5ae93312426a8cf5eeef78050f5b8b8430b45f3ea54ca89213f82b/comments/10))
 
@@ -114,6 +128,10 @@ Counter-arguments:
 > jy-p: it's not inorganic, it's standing limit orders that can be matched against by ppl entering and exiting a position. if they were matching against their own orders (wash trading), that would certainly be inorganic, but that is not what is under discussion (chat on [2019-08-09](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$156537647112429goDVY:decred.org))
 
 ### Concern: Unethical practices
+
+The concern is that market makers engage in unethical activities like wash trading to fake the volume, spoofing (quick placement and removal of orders), pump and dump, etc.
+
+Counter-arguments:
 
 > I totally understand there is natural apprehension to market makers, especially in crypto given some of their previous practices, but I want to assure you we only engaged top tier firms with strong track records and a lot of skin in the game. (@max\_bronstein on [2019-08-02](https://matrix.to/#/!MgQoetFiyjrHAywokv:decred.org/$15647802945405aYWkA:decred.org))
 
@@ -143,7 +161,7 @@ For an index of "regulatory uncertainty" discussions see [this issue](https://gi
 
 ### Concern: MM may crash the price
 
-@emiliomann [noticed](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$156537421912308BkveG:decred.org) that the day when i2 Trading [has begun](https://twitter.com/RudyBouwman/status/1105945015333933057) OTC trading of DGB (Mar 13, 2019) was also the first day of a large prolonged sell-off. During ~1 month prior to that the price has rallied from ~260 to ~360 satoshis, but after the peak (coincided with the announcement) it reversed into a multi-month slide down to ~90 sat as of Aug 21. It must be noted that many altcoins experienced a downtrend against BTC in the same period, and that in terms of USD the dynamic looks not as dramatic.
+@emiliomann [noticed](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$156537421912308BkveG:decred.org) that the day when i2 Trading [has begun](https://twitter.com/RudyBouwman/status/1105945015333933057) OTC trading of DGB (Mar 13, 2019) was also the first day of a large prolonged sell-off. During ~1 month prior to that the price has rallied from ~260 to ~360 satoshis, but after the peak (coincided with the announcement) it reversed into a multi-month slide down to ~90 sat as of Aug 21. It must be noted that many altcoins experienced a downtrend against BTC during the same period, and that in terms of USD the dynamic looks not as dramatic.
 
 > I suppose the bet being made here for the average DCR holder is whether the current illiquidity is preventing more potential buyers from entering the market or preventing more potential sellers from exiting. (@scooter\_d on [2019-08-10](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$1565456063985982kjCCC:matrix.org))
 
@@ -171,6 +189,10 @@ Counter-arguments:
 > Most coins would not ever admit to engaging a MM. We have very little data for comps. (@jz on [2019-08-18](https://proposals.decred.org/proposals/30822c16533890abc6e243eb6d12264b207c3923c14af42cd9b883e71c7003cd/comments/64))
 
 ### Why help the whales? + Why not just use OTC?
+
+> The more conversation I see here, the more I am turning against the idea of hiring a MM. Spending a huge amount of treasury funds to enable whales to more easily enter (and, importantly, exit) their positions... it almost feels reminiscent of the nation state. Spending big reserves of cash, which should be used for the good of the project, on a service which will only impact the wealthy minority and will have no/minimal benefit for the poor masses. and attempts to justify this by claiming [trickle-down economics](https://en.wikipedia.org/wiki/Trickle-down_economics) will end up benefitting the poor indirectly... just makes it feel even more nation state-y (@jholdstock on [2019-08-10](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$156542928313028fOfKB:decred.org))
+
+Replies:
 
 > A MM doesn't magically create an exit for whales, if we don't grow volume/mkt cap in addition to fixing liquidity whales are never getting off their positions if that's their intent. (@jz on [2019-08-10](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$156545668913387IQHzZ:decred.org))
 
