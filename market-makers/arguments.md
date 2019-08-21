@@ -135,13 +135,17 @@ Discussions:
 * [2019-08-09](https://proposals.decred.org/proposals/2eb7ddb29f151691ba14ac8c54d53f6692c1f5e8fe06244edf7d3c33fb440bd9/comments/25): this concern only applies to securities and there are no clear regulatory guidelines
 * [2019-08-10](https://proposals.decred.org/proposals/30822c16533890abc6e243eb6d12264b207c3923c14af42cd9b883e71c7003cd/comments/5): MMs will only provide maker liquidity; whether DCR is a security
 
+For an index of "regulatory uncertainty" discussions see [this issue](https://github.com/decredcommunity/issues/issues/133).
+
 ### Concern: Why MM's can't prove their value upfront, like everybody else?
 
 > Why can't MMs come to the table with the same 'fight club' mentality that characterizes the rest of the Decred contractor community and prove they can add value before asking for professional comp levels? (@betterfuture on [2019-08-11](https://proposals.decred.org/proposals/30822c16533890abc6e243eb6d12264b207c3923c14af42cd9b883e71c7003cd/comments/19))
 
 ### Concern: MM may crash the price
 
-> I suppose the bet being made here for the average DCR holder is whether the current illiquidity is preventing more potential buyers from entering the market or preventing more potential sellers from exiting. (@scooter_d on [2019-08-10](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$1565456063985982kjCCC:matrix.org))
+@emiliomann [noticed](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$156537421912308BkveG:decred.org) that the day when i2 Trading [has begun](https://twitter.com/RudyBouwman/status/1105945015333933057) OTC trading of DGB (Mar 13, 2019) was also the first day of a large prolonged sell-off. During ~1 month prior to that the price has rallied from ~260 to ~360 satoshis, but after the peak (coincided with the announcement) it reversed into a multi-month slide down to ~90 sat as of Aug 21. It must be noted that many altcoins experienced a downtrend against BTC in the same period, and that in terms of USD the dynamic looks not as dramatic.
+
+> I suppose the bet being made here for the average DCR holder is whether the current illiquidity is preventing more potential buyers from entering the market or preventing more potential sellers from exiting. (@scooter\_d on [2019-08-10](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$1565456063985982kjCCC:matrix.org))
 
 ## Q & A
 
