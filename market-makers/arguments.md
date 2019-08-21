@@ -59,8 +59,6 @@ Some exchanges [delist](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$1565
 
 ### Pro: Experiment to try
 
-> it's a spaghetti launch - it's not at all clear it will have a positive effect, but you can't know until you do it (@jy-p on [2019-08-15](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$156589816719413SfIct:decred.org))
-
 Counter-arguments:
 
 > people are saying "it is an experiment", but the proposals are not set-up with the scope, timeline, or cost structure of an experiment (@betterfuture on [2019-08-11](https://proposals.decred.org/proposals/30822c16533890abc6e243eb6d12264b207c3923c14af42cd9b883e71c7003cd/comments/19))
@@ -79,6 +77,10 @@ MM cost [varies](https://github.com/RichardRed0x/politeia-digest/blob/master/iss
 
 > Not counting the loaned collateral, these proposals tend to have an average monthly cost of roughly 10% of the current treasury inflow. If DCR prices were to dip back down to price levels seen earlier this year, that could quickly become 20% of the current treasury inflow. (@solar on [2019-08-11](https://proposals.decred.org/proposals/30822c16533890abc6e243eb6d12264b207c3923c14af42cd9b883e71c7003cd/comments/16))
 
+### Con: No guarantees, it may not work
+
+> it's a spaghetti launch - it's not at all clear it will have a positive effect, but you can't know until you do it (@jy-p on [2019-08-15](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$156589816719413SfIct:decred.org))
+
 ### Con: Coins should not pay for MM
 
 > If all top coins in cryptospace hiring them doesnt mean its the right way to go. Communities of those coins never being asked what ppl think about hiring them. (@rickshaw on [2019-08-15](https://proposals.decred.org/proposals/30822c16533890abc6e243eb6d12264b207c3923c14af42cd9b883e71c7003cd/comments/41))
@@ -86,6 +88,16 @@ MM cost [varies](https://github.com/RichardRed0x/politeia-digest/blob/master/iss
 See also Q&A -> "Why exchanges don't pay for MM...".
 
 ## Concerns
+
+### Concern: MM liquidity is not organic
+
+> it is creating inorganic liquidity, which is not created by any new users, holders, or stakers. I, personally, would like to see a more "grassroots" approach to liquidity, allowing it to organically increase as more and more people learn about the incredible value inherent in Decred's design. (@fort3hlulz on [2019-08-08](https://proposals.decred.org/proposals/4becbe00bd5ae93312426a8cf5eeef78050f5b8b8430b45f3ea54ca89213f82b/comments/10))
+
+Counter-arguments:
+
+> We frequently provide OTC quotes in DCR. Our proposal would bring some of this liquidity to exchanges. It's by no means inorganic! DCR has had years to develop liquidity naturally, and currently on-exchange liquidity is low. For that reason, we were asked to develop a plan for increasing it. (@grapefruittrading on [2019-08-08](https://proposals.decred.org/proposals/4becbe00bd5ae93312426a8cf5eeef78050f5b8b8430b45f3ea54ca89213f82b/comments/14))
+
+> DCR liqiudity from a proper market maker is as "inorganic" as liquidity in a currency exchange office. Without it, you need to wait and/or actively find people willing to exchange your USD for EUR. Exchange office maintains buffers of both currencies and allows you to instantly convert from one to another. Market makers place new buy and sell orders but do not consume existing orders. They "make" orders, not "take". (@bee on [2019-08-18](https://proposals.decred.org/proposals/4becbe00bd5ae93312426a8cf5eeef78050f5b8b8430b45f3ea54ca89213f82b/comments/31))
 
 ### Concern: Unethical practices
 
