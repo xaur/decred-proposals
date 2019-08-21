@@ -247,6 +247,12 @@ Monthly fee:
 
 [CoinMarketBook](https://coinmarketbook.cc/) argues "Market cap is a lie. Buy support tells the true story". As of 2019-08-19, DCR is #95 in that rating with only $260K of buy support at 10% distance from highest bid price. For context: BTC has $360M, ETH $55M, LTC $23M, XMR $9.5M, DASH $5.7M, DOGE $4.6M.
 
+### What about uptime?
+
+> i2trading: Uptime simply refers to the total amount of time we will be in the market making two sided markets. Exchanges are not always completely functional and so if an exchange goes down we will be unable to vend quotes. Secondly, our systems will require periodic maintenance. During that time we would need the flexibility to turn off quoting. The reason for this could be any of the following: reconcile transactions, rebalance our positions, tweak our algo inputs, troubleshoot errors.  
+> jz: people were concerned that you guys would just be turning off the bots regularly when there's volatility.  
+> i2trading: Oh yeah, that's not the reason of not being up all the time.  We will strive to be up as close to 100% as possible though. (chat on [2019-08-20](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$15663344732901jyXOe:decred.org))
+
 ### How will MM report?
 
 > We will provide reports on the total Decred volume (not just our trading) in all the markets we are participating in. Over time, this should demonstrate the increase in DCR trading, which could be valuable to the community. (@i2trading on [2019-08-08](https://proposals.decred.org/proposals/2eb7ddb29f151691ba14ac8c54d53f6692c1f5e8fe06244edf7d3c33fb440bd9/comments/14))
