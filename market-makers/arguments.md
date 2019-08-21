@@ -206,6 +206,8 @@ Monthly fee:
 
 > This is not a concern - we manage inventory by consistently rebalancing when we become overly weighted one way from the price moving one direction. The community should not have to worry about this issue. (@i2trading on [2019-08-13](https://proposals.decred.org/proposals/2eb7ddb29f151691ba14ac8c54d53f6692c1f5e8fe06244edf7d3c33fb440bd9/comments/48))
 
+> If our offers on every exchange are swept, we would buy that quantity of DCR back elsewhere from other market participants. While we may run out of DCR inventory temporarily, we would quickly replenish our DCR supply so that we may fulfill our quoting obligations. We may temporarily run out of DCR during a big price move or if another market participant aggressively lifted our DCR offers. Aside from that, we don't foresee any scenario in which we would temporarily lack DCR inventory. We will adjust our markets according to our position. If we have no net DCR position, we would likely make our market symmetric around what we deem to be the fair DCR value. If we are short DCR from other trading activity, perhaps we would adjust our quotes so that our bid is closer to spot than our offer, to encourage other market participants to sell us DCR. Ultimately we alone bear the risk of losing money from adverse price movements. (@grapefruittrading on [2019-08-20](https://proposals.decred.org/proposals/4becbe00bd5ae93312426a8cf5eeef78050f5b8b8430b45f3ea54ca89213f82b/comments/35))
+
 ### How losses from exceptional events are handled?
 
 > * Trading losses to be borne by i2 Trading.
@@ -250,6 +252,8 @@ Monthly fee:
 > We will provide reports on the total Decred volume (not just our trading) in all the markets we are participating in. Over time, this should demonstrate the increase in DCR trading, which could be valuable to the community. (@i2trading on [2019-08-08](https://proposals.decred.org/proposals/2eb7ddb29f151691ba14ac8c54d53f6692c1f5e8fe06244edf7d3c33fb440bd9/comments/14))
 
 > We will be happy to provide a quarterly reporting statement of all the trades we conducted, and how much liquidity we added to the market. We think this is a good idea. (@i2trading on [2019-08-08](https://proposals.decred.org/proposals/2eb7ddb29f151691ba14ac8c54d53f6692c1f5e8fe06244edf7d3c33fb440bd9/comments/10))
+
+> We will provide transparent reporting of how much we have traded along with metrics at the end of each month. (@i2trading on [2019-08-20](https://proposals.decred.org/proposals/2eb7ddb29f151691ba14ac8c54d53f6692c1f5e8fe06244edf7d3c33fb440bd9/comments/52))
 
 > we can provide a monthly report (@grapefruittrading on [2019-08-08](https://proposals.decred.org/proposals/4becbe00bd5ae93312426a8cf5eeef78050f5b8b8430b45f3ea54ca89213f82b/comments/13))
 
