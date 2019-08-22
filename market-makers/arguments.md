@@ -1,3 +1,8 @@
+---
+author: bee
+published_utc: 2019-08-22
+---
+
 This is a compilation of arguments, concerns and questions about market making proposals.
 
 * pros and cons: not too controversial arguments in favor and against the idea
@@ -14,11 +19,11 @@ Better liquidity helps Decred's [positioning](https://github.com/decredcommunity
 
 > A coin targeting the store of value (SoV) market needs to reduce entry and exit friction as much as possible in order to build market confidence. Likewise, greater market stability will be conducive to more broad usage of DCR as a medium of exchange (MoE). (@jz on [2019-08-10](https://proposals.decred.org/proposals/30822c16533890abc6e243eb6d12264b207c3923c14af42cd9b883e71c7003cd))
 
-> Another driving factor in our pursuit was the fact that an asset positioned to capture the SoV market needs liquidity. If an asset isn’t investable, I.e. liquid enough for investors to move in/out of, it can’t compete with other SoV contenders in the market. If you look back at Chris Burniske’s work on the institutional investors case for BTC, he notes that inevitability is one of the hall marks of any asset, and as such, we must prioritize DCR’s liquidity if we expect it to be an SoV. This issue is particularly exacerbated by the fact the DCR has such a high stake rate. (@maxbronstein on [2019-08-12](https://proposals.decred.org/proposals/30822c16533890abc6e243eb6d12264b207c3923c14af42cd9b883e71c7003cd/comments/29))
+> Another driving factor in our pursuit was the fact that an asset positioned to capture the SoV market needs liquidity. If an asset isn’t investable, I.e. liquid enough for investors to move in/out of, it can’t compete with other SoV contenders in the market. If you look back at Chris Burniske’s work on the institutional investors case for BTC, he notes that inevitability is one of the hall marks of any asset, and as such, we must prioritize DCR’s liquidity if we expect it to be an SoV. This issue is particularly exacerbated by the fact the DCR has such a high stake rate. (@max\_bronstein on [2019-08-12](https://proposals.decred.org/proposals/30822c16533890abc6e243eb6d12264b207c3923c14af42cd9b883e71c7003cd/comments/29))
 
 ### Pro: Better experience for people selling and buying for DCR
 
-More practical reformulation of the above.
+A more practical example of MoE use case:
 
 > Imagine you want to sell me your used car for $5k and I offer to pay you in DCR. If I pay you with DCR using the last print as the price and your immediately selling that DCR would result in you receiving $4.5k that would not be a great offer. Having a MM there to absorb your sell order very close to the last trade price significantly enhances the user experience, and you get your $5k. (@jz on [2019-08-10](https://proposals.decred.org/proposals/30822c16533890abc6e243eb6d12264b207c3923c14af42cd9b883e71c7003cd))
 
@@ -26,7 +31,7 @@ More practical reformulation of the above.
 
 Special case of the above, but is worth an explicit mention.
 
-> if you were a Decred contractor and had some DCR you needed to sell every month to pay your rent and expenses it wouldn't be great if you put in a market order and the price dropped 5%+. (@jz on [2019-08-10](https://proposals.decred.org/proposals/30822c16533890abc6e243eb6d12264b207c3923c14af42cd9b883e71c7003cd))
+> I sell decred every month to pay my bills and can attest to the fact that you'll see slippage of between 1-5%, even with just a few thousand dollars (@lukebp on [2019-08-07](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$156521486110122VVuTY:decred.org))
 
 ### Pro: Attract more investors
 
@@ -39,7 +44,7 @@ Special case of the above, but is worth an explicit mention.
 > checkmatey_: it comes down to confidence. How confident can you be that at any time when you need to get on/off, you wont get burned by slippage  
 > jz: Exactly. All money is about _confidence_. (chat on [2019-08-10](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$156545679913393mNRKs:decred.org))
 
-> The need for an MM quickly arose as I began speaking with a number of institutional investors here in Silicon Valley. While Decred isn’t yet a household name, most researchers who spent time looking into the project were quite intrigued and were quickly interested in becoming stakeholders. Time and time again, I heard issues around DCR’s liquidity. The inability to acquire a large position wasn’t the main deterrent, but rather the inability to get out of a position once acquired as well as what illiquidity said about market sentiment. Investors know many times markets are forced to contract, and when they do, the most illiquid assets behave poorly. Not because of fundamentals, but purely because the market can’t absorb the selling pressure. Similarly, investors have to weigh current liquidity in their research as a measure of sentiment and demand. (@maxbronstein on [2019-08-12](https://proposals.decred.org/proposals/30822c16533890abc6e243eb6d12264b207c3923c14af42cd9b883e71c7003cd/comments/29))
+> The need for an MM quickly arose as I began speaking with a number of institutional investors here in Silicon Valley. While Decred isn’t yet a household name, most researchers who spent time looking into the project were quite intrigued and were quickly interested in becoming stakeholders. Time and time again, I heard issues around DCR’s liquidity. The inability to acquire a large position wasn’t the main deterrent, but rather the inability to get out of a position once acquired as well as what illiquidity said about market sentiment. Investors know many times markets are forced to contract, and when they do, the most illiquid assets behave poorly. Not because of fundamentals, but purely because the market can’t absorb the selling pressure. Similarly, investors have to weigh current liquidity in their research as a measure of sentiment and demand. (@max\_bronstein on [2019-08-12](https://proposals.decred.org/proposals/30822c16533890abc6e243eb6d12264b207c3923c14af42cd9b883e71c7003cd/comments/29))
 
 > With the increased liquidity and volumes, the asset will become available to a new class of investors, particularly institutional investors with strict liquidity requirements in their holdings. Where today, even if these investors had an interest in Decred, would be barred or limited in the size of holding due to the lack of liquidity available today. (@jyashouafar on [2019-08-13](https://proposals.decred.org/proposals/30822c16533890abc6e243eb6d12264b207c3923c14af42cd9b883e71c7003cd/comments/36))
 
@@ -47,13 +52,13 @@ Special case of the above, but is worth an explicit mention.
 > ...  
 > Part of the problem is nobody want to be the person that makes the price rise sharply. A MM helps to smooth this process. (@jz on [2019-08-18](https://proposals.decred.org/proposals/30822c16533890abc6e243eb6d12264b207c3923c14af42cd9b883e71c7003cd/comments/64))
 
-### Pro: Make Decred more visible
+### Pro: Facilitate new listings and make Decred more visible
 
-> With higher volume numbers, more people will see DCR and some exchanges might consider listing DCR on their platform. (u/GrapefruitTrading on [2019-08-09](https://www.reddit.com/r/decred/comments/cnmc0o/market_making_proposal_grapefruit_trading/ewffhwv/))
+> With higher volume numbers, more people will see DCR and some exchanges might consider listing DCR on their platform. (@grapefruittrading on [2019-08-09](https://www.reddit.com/r/decred/comments/cnmc0o/market_making_proposal_grapefruit_trading/ewffhwv/))
 
 > One of the first questions I'm usually asked when negotiating exchange listings is "do you have a market maker?", followed by "will you hire one?", exchanges don't like listing assets that have no pulse. (@jz on [2019-08-14](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$156574882117342AbrKV:decred.org))
 
-### Pro: Possibly protect from delistings
+### Pro: Protect from delistings
 
 Some exchanges [delist](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$156580825517926esBUo:decred.org) assets that don't have X volume in Y time. In case MM happens to increase trading volume, it will be an extra protection from delisting.
 
@@ -65,13 +70,13 @@ Stabilize here means smoothen the price swings, not control (pump or suppress) t
 
 ### Pro: Experiment to try
 
-There were debates about how much poor liquidity is responsible for Decred's low rank and slow adoption. Getting a trial of good liquidity may answer this question. If we buy good liquidity and nothing changes, the problem was elsewhere. If so, we can not renew the contract.
+There have been debates about how much poor liquidity is responsible for Decred's low rank and slow adoption. Getting a trial of good liquidity may answer this question. If we buy good liquidity and nothing changes, the problem was elsewhere. If so, we can not renew the contract.
 
-Counter-arguments:
+Counterarguments:
 
 > people are saying "it is an experiment", but the proposals are not set-up with the scope, timeline, or cost structure of an experiment (@betterfuture on [2019-08-11](https://proposals.decred.org/proposals/30822c16533890abc6e243eb6d12264b207c3923c14af42cd9b883e71c7003cd/comments/19))
 
-See also Q&A -> "Can we start small..." about reducing scope and cost.
+See also [Can we start small...?](#can-we-start-small-and-ramp-up-the-expense-later) about scaling down cost.
 
 ### Pro: Industry first transparency
 
@@ -93,17 +98,17 @@ MM cost [varies](https://github.com/RichardRed0x/politeia-digest/blob/master/iss
 
 ### Con: Coins should not pay for MM
 
-In traditional markets the common practice is for _exchanges_ to pay for MM because exchanges are best positioned to audit MM's results. Unfortunately, in crypto the reality is different.
+In traditional markets the common practice is for _exchanges_ to pay for MM because exchanges are best positioned to audit MM's results.
 
 > If all top coins in cryptospace hiring them doesnt mean its the right way to go. Communities of those coins never being asked what ppl think about hiring them. (@rickshaw on [2019-08-15](https://proposals.decred.org/proposals/30822c16533890abc6e243eb6d12264b207c3923c14af42cd9b883e71c7003cd/comments/41))
 
-Counter-arguments:
+Counterarguments:
 
-* See Q&A -> "Why exchanges don't pay for MM...".
+* See [Why exchanges don't pay for MM instead?](#why-exchanges-dont-pay-for-mm-instead)
 
 A related idea is that even if the coin pays, it [should not](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$15662825861717XfvmO:decred.org) come from its treasury but instead should be funded by large holders or miners.
 
-Counter-arguments:
+Counterarguments:
 
 * Decred doesn't have a large central entity "holder" with ICO money or huge premine that it can throw at MMs. At the same time, honest responsible holders and miners do not always self-organize and act quickly. (@bee on [2019-08-20](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$15663050871865zIJqn:decred.org))
 
@@ -111,13 +116,13 @@ Counter-arguments:
 
 ### Concern: MM liquidity is not organic
 
-Summary: there are two things that can be inorganic - liquidity and volume. Some people mix up the two. Most agree that inorganic fake volume is bad. Opinions diverge whether liquidity provided by MM is organic or not.
+Summary: there are two things that can be inorganic - liquidity and volume. Some people mix up the two. Most agree that inorganic/faked volume is bad. Opinions vary whether liquidity provided by MM is organic or not.
 
-For reference, liquidity is simply open orders while volume is born when those orders are consumed and the trade finishes.
+For reference, liquidity is simply open orders while volume is born when those orders are consumed and the trade is executed.
 
 > it is creating inorganic liquidity, which is not created by any new users, holders, or stakers. I, personally, would like to see a more "grassroots" approach to liquidity, allowing it to organically increase as more and more people learn about the incredible value inherent in Decred's design. (@fort3hlulz on [2019-08-08](https://proposals.decred.org/proposals/4becbe00bd5ae93312426a8cf5eeef78050f5b8b8430b45f3ea54ca89213f82b/comments/10))
 
-Counter-arguments:
+Counterarguments:
 
 > We frequently provide OTC quotes in DCR. Our proposal would bring some of this liquidity to exchanges. It's by no means inorganic! DCR has had years to develop liquidity naturally, and currently on-exchange liquidity is low. For that reason, we were asked to develop a plan for increasing it. (@grapefruittrading on [2019-08-08](https://proposals.decred.org/proposals/4becbe00bd5ae93312426a8cf5eeef78050f5b8b8430b45f3ea54ca89213f82b/comments/14))
 
@@ -131,15 +136,17 @@ Counter-arguments:
 
 The concern is that market makers engage in unethical activities like wash trading to fake the volume, spoofing (quick placement and removal of orders), pump and dump, etc.
 
-Counter-arguments:
+Counterarguments:
 
 > I totally understand there is natural apprehension to market makers, especially in crypto given some of their previous practices, but I want to assure you we only engaged top tier firms with strong track records and a lot of skin in the game. (@max\_bronstein on [2019-08-02](https://matrix.to/#/!MgQoetFiyjrHAywokv:decred.org/$15647802945405aYWkA:decred.org))
+
+See also: [What are success metrics?](#what-are-success-metrics)
 
 ### Concern: Paid MM may attract attention from regulators
 
 ... or even increase the security-ness of DCR
 
-Counter-arguments:
+Counterarguments:
 
 > every major crypto project engages MMs and we've never seen it called out as an issue (@jz on [2019-08-11](https://proposals.decred.org/proposals/30822c16533890abc6e243eb6d12264b207c3923c14af42cd9b883e71c7003cd/comments/14))
 
@@ -155,13 +162,13 @@ Discussions:
 
 For an index of "regulatory uncertainty" discussions see [this issue](https://github.com/decredcommunity/issues/issues/133).
 
-### Concern: Why MM's can't prove their value upfront, like everybody else?
+### Concern: Why MMs can't prove their value upfront, like everybody else?
 
 > Why can't MMs come to the table with the same 'fight club' mentality that characterizes the rest of the Decred contractor community and prove they can add value before asking for professional comp levels? (@betterfuture on [2019-08-11](https://proposals.decred.org/proposals/30822c16533890abc6e243eb6d12264b207c3923c14af42cd9b883e71c7003cd/comments/19))
 
 ### Concern: MM may crash the price
 
-@emiliomann [noticed](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$156537421912308BkveG:decred.org) that the day when i2 Trading [has begun](https://twitter.com/RudyBouwman/status/1105945015333933057) OTC trading of DGB (Mar 13, 2019) was also the first day of a large prolonged sell-off. During ~1 month prior to that the price has rallied from ~260 to ~360 satoshis, but after the peak (coincided with the announcement) it reversed into a multi-month slide down to ~90 sat as of Aug 21. It must be noted that many altcoins experienced a downtrend against BTC during the same period, and that in terms of USD the dynamic looks not as dramatic.
+@emiliomann [noticed](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$156537421912308BkveG:decred.org) that the day when i2 Trading [has begun](https://twitter.com/RudyBouwman/status/1105945015333933057) OTC trading of DGB (Mar 13, 2019) was also the first day of a large prolonged sell-off. During ~1 month prior to that the price has rallied from ~260 to ~360 satoshis, but after the peak (coincided with the announcement) it reversed into a multi-month slide down to ~90 sat as of Aug 21. It must be noted that many altcoins experienced a downtrend against BTC during the same period, and that in terms of USD the dynamic looks less dramatic.
 
 > I suppose the bet being made here for the average DCR holder is whether the current illiquidity is preventing more potential buyers from entering the market or preventing more potential sellers from exiting. (@scooter\_d on [2019-08-10](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$1565456063985982kjCCC:matrix.org))
 
@@ -169,7 +176,7 @@ For an index of "regulatory uncertainty" discussions see [this issue](https://gi
 
 The [concern](https://proposals.decred.org/proposals/30822c16533890abc6e243eb6d12264b207c3923c14af42cd9b883e71c7003cd/comments/73) is that if an investor has studied Decred but got turned away by poor liquidity, he doesn't care much about Decred's mission and values and will likely be a bad stakeholder.
 
-Counter-arguments:
+Counterarguments:
 
 * Better liquidity [helps all](https://proposals.decred.org/proposals/30822c16533890abc6e243eb6d12264b207c3923c14af42cd9b883e71c7003cd/comments/82), not just speculators.
 * Side note: comforting those who have liquidity as top priority is a bad selling point for MM.
@@ -190,7 +197,7 @@ Counter-arguments:
 
 ### Why help the whales? + Why not just use OTC?
 
-> The more conversation I see here, the more I am turning against the idea of hiring a MM. Spending a huge amount of treasury funds to enable whales to more easily enter (and, importantly, exit) their positions... it almost feels reminiscent of the nation state. Spending big reserves of cash, which should be used for the good of the project, on a service which will only impact the wealthy minority and will have no/minimal benefit for the poor masses. and attempts to justify this by claiming [trickle-down economics](https://en.wikipedia.org/wiki/Trickle-down_economics) will end up benefitting the poor indirectly... just makes it feel even more nation state-y (@jholdstock on [2019-08-10](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$156542928313028fOfKB:decred.org))
+> Spending a huge amount of treasury funds to enable whales to more easily enter (and, importantly, exit) their positions... it almost feels reminiscent of the nation state. Spending big reserves of cash, which should be used for the good of the project, on a service which will only impact the wealthy minority and will have no/minimal benefit for the poor masses. and attempts to justify this by claiming [trickle-down economics](https://en.wikipedia.org/wiki/Trickle-down_economics) will end up benefitting the poor indirectly... just makes it feel even more nation state-y (@jholdstock on [2019-08-10](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$156542928313028fOfKB:decred.org))
 
 Replies:
 
@@ -226,11 +233,7 @@ Monthly fee:
 
 > The DCR market is so illiquid and trades so little that making markets for it, and providing the kind of depth that we are offering will most likely result in trading losses. (@i2trading on [2019-08-07](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$15651885699101HYJcG:decred.org))
 
-> Intuitively, we can make profits with our market making strategies by buying low from one client and selling high to another client because our high frequency strategy can make decisions within milliseconds, much faster than normal people especially when market moves a lot.
-> 
-> However, the profit we gain is generated from the market, which means, we take profits from you, from the Decred community. The more profits we gain, the more money you guys lose.
-> 
-> We're here to help Decred communities, to let more people involve and let those who got interested recently can get a chance to have their own DCR tokens and join the community. It's not fair for them to pay a higher price and lose money, that is why we decide to gain $0 profit from the market. (@runchen of Altonomy on [2019-08-08](https://proposals.decred.org/proposals/772d083fef79fa2e443d8424b353deadc3af69c8d8764e473cb200f98f356c60/comments/7))
+> Intuitively, we can make profits with our market making strategies by buying low from one client and selling high to another client because our high frequency strategy can make decisions within milliseconds, much faster than normal people especially when market moves a lot. However, the profit we gain is generated from the market, which means, we take profits from you, from the Decred community. The more profits we gain, the more money you guys lose. (@runchen of Altonomy on [2019-08-08](https://proposals.decred.org/proposals/772d083fef79fa2e443d8424b353deadc3af69c8d8764e473cb200f98f356c60/comments/7))
 
 > > In case the MM manages to make profit during his activity, will it go back to Treasury or make a discount for the next month?
 > 
@@ -252,7 +255,7 @@ Monthly fee:
 
 > richardred: I was wondering about the significance of the uptime too, seems like a big difference between 100% and 90% if it means MM will be sitting out 10% of the time when things get rough.  
 > jy-p: it strikes me as giving them leeway to turn off their bots when the market gets really directional, to be sure they don't get run over  
-> max_bronstein: this is precisely correct. and it's better for the project. If an MM is caught offsides, they end up holding a bunch of excess inventory which they will try and sell off most likely  
+> max\_bronstein: this is precisely correct. and it's better for the project. If an MM is caught offsides, they end up holding a bunch of excess inventory which they will try and sell off most likely  
 > jy-p: yep. they're not there to stabilize or otherwise control the market so much as add depth so ppl can get on and off the dcr ride (chat on [2019-08-09](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$156538185512711OSiGO:decred.org))
 
 > MMs will need to manage risk in a way that protects them from major price swings.
@@ -306,7 +309,7 @@ Monthly fee:
 > 
 > Proving causality is always hard, I can just imagine price rallying or falling and people assuming MM is amazing or the devil. Metrics for success have to do with spreads, slippage, and total volume traded. (@jz on [2019-08-18](https://proposals.decred.org/proposals/30822c16533890abc6e243eb6d12264b207c3923c14af42cd9b883e71c7003cd/comments/65))
 
-[CoinMarketBook](https://coinmarketbook.cc/) argues "Market cap is a lie. Buy support tells the true story". As of 2019-08-19, DCR is #95 in that rating with only $260K of buy support at 10% distance from highest bid price. For context: BTC has $360M, ETH $55M, LTC $23M, XMR $9.5M, DASH $5.7M, DOGE $4.6M.
+[CoinMarketBook](https://coinmarketbook.cc/) argues "Market cap is a lie. Buy support tells the true story". As of 2019-08-19, DCR is #95 in that rating with only $260K buy support within 10% distance from highest bid price. For context: BTC has $360M, ETH $55M, LTC $23M, XMR $9.5M, DASH $5.7M, DOGE $4.6M.
 
 ### What about uptime?
 
