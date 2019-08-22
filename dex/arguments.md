@@ -1,15 +1,12 @@
 ---
 author: bee
-published_date: 2019-02-28
-updated_date: 2019-08-15
+published_utc: 2019-02-28
+updated_utc: 2019-08-22
 ---
 
-# Pros-Cons Analysis of Decred DEX Proposal
+This is a compilation of arguments and concerns about [Decred Decentralized Exchange Infrastructure](index.md) proposals.
 
-Personal collection of pros and cons for the [RFP: Decred Decentralized Exchange Infrastructure
-](https://proposals.decred.org/proposals/5431da8ff4eda8cdbf8f4f2e08566ffa573464b97ef6d6bae78e749f27800d3a).
-
-@bee: I tried to give it a fair judgement but not claiming any neutrality. Contributions are welcome: I'll do my best to look from different perspectives and accept any changes I find reasonable.
+I tried to give it a fair judgement but not claiming any neutrality. Contributions are welcome: I'll do my best to look from different perspectives and accept any changes I find reasonable.
 
 ## Pros
 
