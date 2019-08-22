@@ -10,7 +10,7 @@ Aux docs:
 
 Analysis:
 
-* pros and cons [analysis](analysis-bee.md) by @bee
+* [compilation](arguments.md) of pros, cons and risks by @bee
 * [comparison](https://proposals.decred.org/proposals/417607aaedff2942ff3701cdb4eff76637eca4ed7f7ba816e5c0bd2e971602e1/comments/4) with SparkSwap by @chappjc
 
 Discussions:
