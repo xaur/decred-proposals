@@ -102,9 +102,17 @@ In traditional markets the common practice is for _exchanges_ to pay for MM beca
 
 > If all top coins in cryptospace hiring them doesnt mean its the right way to go. Communities of those coins never being asked what ppl think about hiring them. (@rickshaw on [2019-08-15](https://proposals.decred.org/proposals/30822c16533890abc6e243eb6d12264b207c3923c14af42cd9b883e71c7003cd/comments/41))
 
-Counterarguments:
+Counterarguments and comments:
 
-* See [Why exchanges don't pay for MM instead?](#why-exchanges-dont-pay-for-mm-instead)
+> MM is so common in the equity market, even Apple and Google have their market makers providing liquidity to their stakeholders. (@runchen of Altonomy on [2019-08-09](https://proposals.decred.org/proposals/772d083fef79fa2e443d8424b353deadc3af69c8d8764e473cb200f98f356c60/comments/18))
+
+> In almost all cases BTC and other large cap coins have had market making. In some cases it was funded by the foundation and in others it was funded by the exchange. We have seen it both ways. (@grapefruittrading on [2019-08-09](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$1565377390653439tTuzU:matrix.org))
+
+> \[They should\] but the reality is exchanges have the power and don't care about low volume coins. I suspect every coin in the top 20 by market cap has MMs operating. (@jz on [2019-08-19](https://proposals.decred.org/proposals/30822c16533890abc6e243eb6d12264b207c3923c14af42cd9b883e71c7003cd/comments/66))
+
+> > Is there a known story where a coin got a significantly long-term benefit from hiring an MM?
+> 
+> Most coins would not ever admit to engaging a MM. We have very little data for comps. (@jz on [2019-08-18](https://proposals.decred.org/proposals/30822c16533890abc6e243eb6d12264b207c3923c14af42cd9b883e71c7003cd/comments/64))
 
 A related idea is that even if the coin pays, it [should not](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$15662825861717XfvmO:decred.org) come from its treasury but instead should be funded by large holders or miners.
 
@@ -172,34 +180,13 @@ For an index of "regulatory uncertainty" discussions see [this issue](https://gi
 
 > I suppose the bet being made here for the average DCR holder is whether the current illiquidity is preventing more potential buyers from entering the market or preventing more potential sellers from exiting. (@scooter\_d on [2019-08-10](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$1565456063985982kjCCC:matrix.org))
 
-### Concern: This will onboard wrong people
+### Concern: This will only benefit the whales
 
-The [concern](https://proposals.decred.org/proposals/30822c16533890abc6e243eb6d12264b207c3923c14af42cd9b883e71c7003cd/comments/73) is that if an investor has studied Decred but got turned away by poor liquidity, he doesn't care much about Decred's mission and values and will likely be a bad stakeholder.
-
-Counterarguments:
-
-* Better liquidity [helps all](https://proposals.decred.org/proposals/30822c16533890abc6e243eb6d12264b207c3923c14af42cd9b883e71c7003cd/comments/82), not just speculators.
-* Side note: comforting those who have liquidity as top priority is a bad selling point for MM.
-
-## Q & A
-
-### Why exchanges don't pay for MM instead?
-
-> MM is so common in the equity market, even Apple and Google have their market makers providing liquidity to their stakeholders. (@runchen of Altonomy on [2019-08-09](https://proposals.decred.org/proposals/772d083fef79fa2e443d8424b353deadc3af69c8d8764e473cb200f98f356c60/comments/18))
-
-> In almost all cases BTC and other large cap coins have had market making. In some cases it was funded by the foundation and in others it was funded by the exchange. We have seen it both ways. (@grapefruittrading on [2019-08-09](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$1565377390653439tTuzU:matrix.org))
-
-> \[They should\] but the reality is exchanges have the power and don't care about low volume coins. I suspect every coin in the top 20 by market cap has MMs operating. (@jz on [2019-08-19](https://proposals.decred.org/proposals/30822c16533890abc6e243eb6d12264b207c3923c14af42cd9b883e71c7003cd/comments/66))
-
-> > Is there a known story where a coin got a significantly long-term benefit from hiring an MM?
-> 
-> Most coins would not ever admit to engaging a MM. We have very little data for comps. (@jz on [2019-08-18](https://proposals.decred.org/proposals/30822c16533890abc6e243eb6d12264b207c3923c14af42cd9b883e71c7003cd/comments/64))
-
-### Why help the whales? + Why not just use OTC?
+This also covers a common question: "Why not just use OTC?"
 
 > Spending a huge amount of treasury funds to enable whales to more easily enter (and, importantly, exit) their positions... it almost feels reminiscent of the nation state. Spending big reserves of cash, which should be used for the good of the project, on a service which will only impact the wealthy minority and will have no/minimal benefit for the poor masses. and attempts to justify this by claiming [trickle-down economics](https://en.wikipedia.org/wiki/Trickle-down_economics) will end up benefitting the poor indirectly... just makes it feel even more nation state-y (@jholdstock on [2019-08-10](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$156542928313028fOfKB:decred.org))
 
-Replies:
+Counterarguments:
 
 > A MM doesn't magically create an exit for whales, if we don't grow volume/mkt cap in addition to fixing liquidity whales are never getting off their positions if that's their intent. (@jz on [2019-08-10](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$156545668913387IQHzZ:decred.org))
 
@@ -216,6 +203,17 @@ Replies:
 > > Isn't it good that the big boys are not entering? Isn't it better to have DCR distributed across lots and lots of small fish?
 > 
 > Amusingly enough the groups that have been most vocal about engaging a MM are larger players who are mostly done buying and want the market to be less scary for small players to enter and exit. (@jz on [2019-08-18](https://proposals.decred.org/proposals/30822c16533890abc6e243eb6d12264b207c3923c14af42cd9b883e71c7003cd/comments/64))
+
+### Concern: This will onboard wrong people
+
+The [concern](https://proposals.decred.org/proposals/30822c16533890abc6e243eb6d12264b207c3923c14af42cd9b883e71c7003cd/comments/73) is that if an investor has studied Decred but got turned away by poor liquidity, he doesn't care much about Decred's mission and values and will likely be a bad stakeholder.
+
+Counterarguments:
+
+* Better liquidity [helps all](https://proposals.decred.org/proposals/30822c16533890abc6e243eb6d12264b207c3923c14af42cd9b883e71c7003cd/comments/82), not just speculators.
+* Side note: comforting those who have liquidity as top priority is a bad selling point for MM.
+
+## Q & A
 
 ### Why does it cost so much?
 
