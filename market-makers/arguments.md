@@ -19,7 +19,7 @@ Better liquidity helps Decred's [positioning](https://github.com/decredcommunity
 
 > A coin targeting the store of value (SoV) market needs to reduce entry and exit friction as much as possible in order to build market confidence. Likewise, greater market stability will be conducive to more broad usage of DCR as a medium of exchange (MoE). (@jz on [2019-08-10](https://proposals.decred.org/proposals/30822c16533890abc6e243eb6d12264b207c3923c14af42cd9b883e71c7003cd))
 
-> Another driving factor in our pursuit was the fact that an asset positioned to capture the SoV market needs liquidity. If an asset isn’t investable, I.e. liquid enough for investors to move in/out of, it can’t compete with other SoV contenders in the market. If you look back at Chris Burniske’s work on the institutional investors case for BTC, he notes that inevitability is one of the hall marks of any asset, and as such, we must prioritize DCR’s liquidity if we expect it to be an SoV. This issue is particularly exacerbated by the fact the DCR has such a high stake rate. (@max\_bronstein on [2019-08-12](https://proposals.decred.org/proposals/30822c16533890abc6e243eb6d12264b207c3923c14af42cd9b883e71c7003cd/comments/29))
+> Another driving factor in our pursuit was the fact that an asset positioned to capture the SoV market needs liquidity. If an asset isn't investable, I.e. liquid enough for investors to move in/out of, it can't compete with other SoV contenders in the market. If you look back at Chris Burniske's work on the institutional investors case for BTC, he notes that inevitability is one of the hall marks of any asset, and as such, we must prioritize DCR's liquidity if we expect it to be an SoV. This issue is particularly exacerbated by the fact the DCR has such a high stake rate. (@max\_bronstein on [2019-08-12](https://proposals.decred.org/proposals/30822c16533890abc6e243eb6d12264b207c3923c14af42cd9b883e71c7003cd/comments/29))
 
 ### Pro: Better experience for people selling and buying for DCR
 
@@ -44,7 +44,7 @@ Special case of the above, but is worth an explicit mention.
 > checkmatey_: it comes down to confidence. How confident can you be that at any time when you need to get on/off, you wont get burned by slippage  
 > jz: Exactly. All money is about _confidence_. (chat on [2019-08-10](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$156545679913393mNRKs:decred.org))
 
-> The need for an MM quickly arose as I began speaking with a number of institutional investors here in Silicon Valley. While Decred isn’t yet a household name, most researchers who spent time looking into the project were quite intrigued and were quickly interested in becoming stakeholders. Time and time again, I heard issues around DCR’s liquidity. The inability to acquire a large position wasn’t the main deterrent, but rather the inability to get out of a position once acquired as well as what illiquidity said about market sentiment. Investors know many times markets are forced to contract, and when they do, the most illiquid assets behave poorly. Not because of fundamentals, but purely because the market can’t absorb the selling pressure. Similarly, investors have to weigh current liquidity in their research as a measure of sentiment and demand. (@max\_bronstein on [2019-08-12](https://proposals.decred.org/proposals/30822c16533890abc6e243eb6d12264b207c3923c14af42cd9b883e71c7003cd/comments/29))
+> The need for an MM quickly arose as I began speaking with a number of institutional investors here in Silicon Valley. While Decred isn't yet a household name, most researchers who spent time looking into the project were quite intrigued and were quickly interested in becoming stakeholders. Time and time again, I heard issues around DCR's liquidity. The inability to acquire a large position wasn't the main deterrent, but rather the inability to get out of a position once acquired as well as what illiquidity said about market sentiment. Investors know many times markets are forced to contract, and when they do, the most illiquid assets behave poorly. Not because of fundamentals, but purely because the market can't absorb the selling pressure. Similarly, investors have to weigh current liquidity in their research as a measure of sentiment and demand. (@max\_bronstein on [2019-08-12](https://proposals.decred.org/proposals/30822c16533890abc6e243eb6d12264b207c3923c14af42cd9b883e71c7003cd/comments/29))
 
 > With the increased liquidity and volumes, the asset will become available to a new class of investors, particularly institutional investors with strict liquidity requirements in their holdings. Where today, even if these investors had an interest in Decred, would be barred or limited in the size of holding due to the lack of liquidity available today. (@jyashouafar on [2019-08-13](https://proposals.decred.org/proposals/30822c16533890abc6e243eb6d12264b207c3923c14af42cd9b883e71c7003cd/comments/36))
 
@@ -108,7 +108,7 @@ Counterarguments and comments:
 
 > In almost all cases BTC and other large cap coins have had market making. In some cases it was funded by the foundation and in others it was funded by the exchange. We have seen it both ways. (@grapefruittrading on [2019-08-09](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$1565377390653439tTuzU:matrix.org))
 
-> \[They should\] but the reality is exchanges have the power and don't care about low volume coins. I suspect every coin in the top 20 by market cap has MMs operating. (@jz on [2019-08-19](https://proposals.decred.org/proposals/30822c16533890abc6e243eb6d12264b207c3923c14af42cd9b883e71c7003cd/comments/66))
+> \[Exchanges should\] but the reality is exchanges have the power and don't care about low volume coins. I suspect every coin in the top 20 by market cap has MMs operating. (@jz on [2019-08-19](https://proposals.decred.org/proposals/30822c16533890abc6e243eb6d12264b207c3923c14af42cd9b883e71c7003cd/comments/66))
 
 > > Is there a known story where a coin got a significantly long-term benefit from hiring an MM?
 > 
@@ -150,7 +150,7 @@ Counterarguments:
 
 See also: [What are success metrics?](#what-are-success-metrics)
 
-### Concern: Paid MM may attract attention from regulators
+### Concern: Paid MM may attract attention of regulators
 
 ... or even increase the security-ness of DCR
 
@@ -164,7 +164,7 @@ Counterarguments:
 
 Discussions:
 
-* [2019-08-05](https://www.reddit.com/r/decred/comments/cm2uw1/decred_only_needs_one_market_maker/ew1jp6y/): subsidizing MM action will lower Decred's "regulatory compliance score", on the other hand SEC has bigger fish to fry atm and by the time they get to Decred the Treasury may be (more) decentralized 
+* [2019-08-05](https://www.reddit.com/r/decred/comments/cm2uw1/decred_only_needs_one_market_maker/ew1jp6y/): subsidizing MM action will lower Decred's "regulatory compliance score", on the other hand SEC has bigger fish to fry atm and by the time they get to Decred the Treasury may be (more) decentralized
 * [2019-08-09](https://proposals.decred.org/proposals/2eb7ddb29f151691ba14ac8c54d53f6692c1f5e8fe06244edf7d3c33fb440bd9/comments/25): this concern only applies to securities and there are no clear regulatory guidelines
 * [2019-08-10](https://proposals.decred.org/proposals/30822c16533890abc6e243eb6d12264b207c3923c14af42cd9b883e71c7003cd/comments/5): MMs will only provide maker liquidity; whether DCR is a security
 
@@ -281,7 +281,7 @@ Monthly fee:
 
 ### Why these markets were chosen, can we control them?
 
-> The pairs we plan to provide liquidity for will be Binance DCR/BTC, Bittrex DCR/USDT, Bittrex DCR/BTC, OkCoin DCR/USD, though these pairs can be changed should the relevant Decred parties deem it in the network’s best interest (e.g., a new exchange listing). (@grapefruittrading on [2019-08-07](https://proposals.decred.org/proposals/4becbe00bd5ae93312426a8cf5eeef78050f5b8b8430b45f3ea54ca89213f82b))
+> The pairs we plan to provide liquidity for will be Binance DCR/BTC, Bittrex DCR/USDT, Bittrex DCR/BTC, OkCoin DCR/USD, though these pairs can be changed should the relevant Decred parties deem it in the network's best interest (e.g., a new exchange listing). (@grapefruittrading on [2019-08-07](https://proposals.decred.org/proposals/4becbe00bd5ae93312426a8cf5eeef78050f5b8b8430b45f3ea54ca89213f82b))
 
 > We specifically chose these pairs to round out the liquidity globally. Trading begets more trading. Ultimately, if there are deep books everywhere retail DCR participants will benefit the most. That being said, if there is overwhelming support for fewer pairs, we are open to it. (@i2trading on [2019-08-08](https://proposals.decred.org/proposals/2eb7ddb29f151691ba14ac8c54d53f6692c1f5e8fe06244edf7d3c33fb440bd9/comments/12))
 
@@ -295,7 +295,7 @@ Monthly fee:
 > 2. % spread between the first bid/asks, meaning first buy order and first sell order on the books
 > 3. % uptime of market making software, essentially, how often is the system actually on the books
 > 
-> In the case that the community wants to add certain KPIs, that can be done before these proposals go live and after the 6 month term is up. I suspect the value of the MMs will be pretty apparent after the first 6 month term. Theoretically, the holder base should grow *IF* liquidity was a problem as we expected. If holder numbers don’t grow, liquidity wasn’t the issue.
+> In the case that the community wants to add certain KPIs, that can be done before these proposals go live and after the 6 month term is up. I suspect the value of the MMs will be pretty apparent after the first 6 month term. Theoretically, the holder base should grow *IF* liquidity was a problem as we expected. If holder numbers don't grow, liquidity wasn't the issue.
 > 
 > Overall, the goal of a market maker is to make it easy for buyers and sellers to transact with little slippage. By no means are they attempting to move the price in one direction, we explicitly only engaged firms with strong reputations and strong past performance. (@max\_bronstein on [2019-08-04](https://matrix.to/#/!MgQoetFiyjrHAywokv:decred.org/$15648896736066fvsxu:decred.org))
 
