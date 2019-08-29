@@ -7,10 +7,10 @@
 | Uptime                 | 90%  	|    90%     |       80%     |
 | Fees                   | $0k/m   |   $35k/m   |   $28k/m   |
 | Inventory              |30k DCR| 30k DCR | 12k DCR |  
-| Interest (6 months)    |   $13.5k   |   $43k     |    $17k    |     
+| Interest (6 months)    |   $13.5k   |   $49k     |    $17k    |     
 | Trading fees           |Treasury (max $10k/month)| Treasury (max $10k/month) | Included in price|
-| Max 6 month cost           |   $73.5k  |   $283k    |   $185k    |
-| Max Monthly cost           |   $12k   |   $47k     |   $31k    |
-| $ of liquidity per $ spent|    $2.45 (+ fees)  |	$1.06 (+ fees)   |  $0.65 (includes fees) |
+| Max 6 month cost           |   $73.5k  |   $319k    |   $185k    |
+| Max Monthly cost           |   $12k   |   $53k     |   $31k    |
+| $ of liquidity per $ spent|    $2.45 (+ fees)  |	$0.94 (+ fees)   |  $0.65 (includes fees) |
 
 Updated 29 Aug to remove Altonomy and Grapefruit tight, amend i2 to reflect improved offer.
