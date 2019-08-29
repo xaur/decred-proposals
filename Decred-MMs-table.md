@@ -7,7 +7,7 @@
 | Uptime                 | 90%  	|    90%     |       80%     |
 | Fees                   | $0k/m   |   $35k/m   |   $28k/m   |
 | Inventory              |30k DCR| 30k DCR | 12k DCR |  
-| Interest               |   $13.5k   |   $43k     |    $17k    |     
+| Interest (6 months)    |   $13.5k   |   $43k     |    $17k    |     
 | Trading fees           |Treasury (max $10k/month)| Treasury (max $10k/month) | Included in price|
 | Max 6 month cost           |   $73.5k  |   $283k    |   $185k    |
 | Max Monthly cost           |   $12k   |   $47k     |   $31k    |
