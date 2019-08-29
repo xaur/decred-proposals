@@ -3,7 +3,7 @@
 | Liquidity (each side)	 | $30k     | $50k       |  $30k      |
 | Pairs                  | 6       | 6          |     4         |
 | Total liquidity (e/s)  | $180k    | $300k      |    $120k     |
-| Spread                 |Layered +/-3%|$10k/1.5%,$30k/2%,$50k/4%|$30k 2% (flexible)|
+| Spread                 |$30k Layered +/-3%|$10k/1.5%,$30k/2%,$50k/4%|$30k 2% (flexible)|
 | Uptime                 | 90%  	|    90%     |       80%     |
 | Fees                   | $0k/m   |   $35k/m   |   $28k/m   |
 | Inventory              |30k DCR| 30k DCR | 12k DCR |  
