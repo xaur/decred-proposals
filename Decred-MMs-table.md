@@ -14,4 +14,5 @@
 | $ of liquidity per $ spent|    $2.45 (+ fees)  |	$0.94 (+ fees)   |  $0.65 (includes fees) |
 
 Based on DCR price of $30, BTC price of $10,000
+
 Updated 29 Aug to remove Altonomy and Grapefruit tight, amend i2 to reflect improved offer.
