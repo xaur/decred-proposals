@@ -11,7 +11,7 @@
 | Trading fees           |Treasury (max $10k/month)| Treasury (max $10k/month) | Included in price|
 | Max 6 month cost           |   $100.5k  |   $319k    |   $185k    |
 | Max Monthly cost           |   $17k   |   $53k     |   $31k    |
-| $ of liquidity per $ spent|    $1.80 (inc 10k fees)  |	$0.94 (inc 10k fees)   |  $0.65 (includes fees) |
+| $ of liquidity per $ spent|    $1.80 (at max trading fees)  |	$0.94 (at max trading fees)   |  $0.65 (includes fees) |
 
 Based on DCR price of $30, BTC price of $10,000
 
