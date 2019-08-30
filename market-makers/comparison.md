@@ -1,3 +1,8 @@
+---
+author: richardred
+published_utc: 2019-08-30
+---
+
 This file provides a comparison between the competing market maker proposals, in a table of cost estimates followed by a more detailed breakdown of how the estimates were produced.
 
 |                            | Tantra Labs                 | i2 Trading                  | Grapefruit            |
@@ -25,13 +30,10 @@ Estimated costs are based on $30/DCR. I don't know what a good estimate of tradi
 
 **Offer:**
 
-0.3% BTC spread, 0.5% USD spread
-
-Layered offers of $30k each side up to 3% from current price
-
-6 pairs
-
-90% uptime
+- 0.3% BTC spread, 0.5% USD spread
+- Layered offers of $30k each side up to 3% from current price
+- 6 pairs
+- 90% uptime
 
 **Cost:**
 
@@ -53,13 +55,10 @@ Total indicative cost for 6 months (including max 10k/month trading fees): **$10
 
 **Offer:**
 
-0.5% BTC spread, 0.75% USD spread
-
-Layered depth, $10k/1.5%, $30k/2%, $50k/4%
-
-6 pairs
-
-90% uptime
+- 0.5% BTC spread, 0.75% USD spread
+- Layered depth, $10k/1.5%, $30k/2%, $50k/4%
+- 6 pairs
+- 90% uptime
 
 **Cost:**
 
@@ -81,13 +80,10 @@ Total indicative cost for 6 months (including max 10k/month trading fees): **$31
 
 **Offer:**
 
-4% bid to ask spread, which is equivalent to the 2% spread level (from current price) as the other proposals quote it.
-
-$30k each side
-
-4 pairs
-
-80% uptime
+- 4% bid to ask spread, which is equivalent to the 2% spread level (from current price) as the other proposals quote it.
+- $30k each side
+- 4 pairs
+- 80% uptime
 
 **Cost:**
 
@@ -99,14 +95,9 @@ $90k/pair = 12k DCR or $360k, assume monthly interest of 0.8% = $17k for 6 month
 
 Total indicative cost for 6 months (including trading fees) : **$185,000**
 
-Update 4: Added Tantra offer and updated i2 offer. Altonomy withdrew their offer.
+## Updates
 
-Update 3: Grapefruit's offer is framed differently (in terms of "bid to ask") to the others (in terms of the spread from mid) - so 2% bid to ask is largely equivalent to 1% spread, except that the offer could be asymetrical around the price. This [comment](https://proposals.decred.org/proposals/4becbe00bd5ae93312426a8cf5eeef78050f5b8b8430b45f3ea54ca89213f82b/comments/5) explains it.
-
-Update 2: Grapefruit have confirmed that the only loan they require is the DCR one. Added note about no layering on Grapefruit offer.
-
-Update 1:
-
-i2 have clarified that the loan figure in their proposal covers all required loans, so that is cut in half. I am also now assuming that as Grapefruit does not mention a loan other than the DCR one that this covers their inventory requirements.
-
-Grapefruit have clarified that they would not charge trading fees to the Treasury, which sets their proposal apart from the other two because there is no additional unknown charge for trading fees to consider.
+- 2019-08-30: Added Tantra offer and updated i2 offer. Altonomy withdrew their offer.
+- 2019-08-11: Grapefruit's offer is framed differently (in terms of "bid to ask") to the others (in terms of the spread from mid) - so 2% bid to ask is largely equivalent to 1% spread, except that the offer could be asymetrical around the price. This [comment](https://proposals.decred.org/proposals/4becbe00bd5ae93312426a8cf5eeef78050f5b8b8430b45f3ea54ca89213f82b/comments/5) explains it.
+- 2019-08-09: Grapefruit have confirmed that the only loan they require is the DCR one. Added note about no layering on Grapefruit offer.
+- 2019-08-09: i2 have clarified that the loan figure in their proposal covers all required loans, so that is cut in half. I am also now assuming that as Grapefruit does not mention a loan other than the DCR one that this covers their inventory requirements. Grapefruit have clarified that they would not charge trading fees to the Treasury, which sets their proposal apart from the other two because there is no additional unknown charge for trading fees to consider.
