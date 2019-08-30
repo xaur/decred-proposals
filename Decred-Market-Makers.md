@@ -73,11 +73,11 @@ Total indicative cost for 6 months (including max 10k/month trading fees): **$31
 
 ### Grapefruit Trading
 
-- Cheaper, lower liquidity, less uptime. Only proposal which does not require reimbursement of trading fees.
+- Only proposal which does not require reimbursement of trading fees.
 
 **Offer:**
 
-2% bid to ask spread (they also quote figures for 4%), which is equivalent to the 1% spread level (from current price) as the other proposals quote it.
+4% bid to ask spread, which is equivalent to the 2% spread level (from current price) as the other proposals quote it.
 
 $30k each side
 
@@ -87,11 +87,11 @@ $30k each side
 
 **Cost:**
 
-$40k/month = $240k for 6 months
+$28k/month = $168k for 6 months
 
 **Loans:** 
 
-$90k/pair = 12k DCR or $360k, assume monthly interest of 0.8% = $17k
+$90k/pair = 12k DCR or $360k, assume monthly interest of 0.8% = $17k for 6 months
 
-Total indicative cost for 6 months (including trading fees) : **$257,000**
+Total indicative cost for 6 months (including trading fees) : **$185,000**
 
