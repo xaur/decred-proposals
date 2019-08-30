@@ -7,11 +7,11 @@
 | Uptime                 | 90%  	|    90%     |       80%     |
 | Fees                   | $0k/m   |   $35k/m   |   $28k/m   |
 | Inventory              |30k DCR| 30k DCR | 12k DCR |  
-| Interest (6 months)    |   $13.5k   |   $49k     |    $17k    |     
+| Interest (6 months)    |   $40.5k   |   $49k     |    $17k    |     
 | Trading fees           |Treasury (max $10k/month)| Treasury (max $10k/month) | Included in price|
-| Max 6 month cost           |   $73.5k  |   $319k    |   $185k    |
-| Max Monthly cost           |   $12k   |   $53k     |   $31k    |
-| $ of liquidity per $ spent|    $2.45 (+ fees)  |	$0.94 (+ fees)   |  $0.65 (includes fees) |
+| Max 6 month cost           |   $100.5k  |   $319k    |   $185k    |
+| Max Monthly cost           |   $17k   |   $53k     |   $31k    |
+| $ of liquidity per $ spent|    $1.80 (inc 10k fees)  |	$0.94 (inc 10k fees)   |  $0.65 (includes fees) |
 
 Based on DCR price of $30, BTC price of $10,000
 
