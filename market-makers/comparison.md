@@ -19,6 +19,7 @@ This file provides a comparison between the competing market maker proposals, in
 | Max 6 month cost           | $100.5k                     | $319k                       | $185k                 |
 | Max Monthly cost           | $17k                        | $53k                        | $31k                  |
 | $ of liquidity per $ spent | $1.80 (at max trading fees) | $0.94 (at max trading fees) | $0.65 (includes fees) |
+| Max setup time			 | 90 days					   | 60 days                     | 60 days               |
 
 ## Market Maker proposal cost estimates
 
