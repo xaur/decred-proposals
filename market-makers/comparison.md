@@ -24,7 +24,7 @@ This file provides a comparison between the competing market maker proposals, in
 
 ## Market Maker proposal cost estimates
 
-Estimated costs are based on $30/DCR. I don't know what a good estimate of trading fees would be, but they would also be billed to the Treasury by i2 and Altonomy, the i2 proposal caps this at $20k/month but does not expect to reach that limit.
+Estimated costs are based on $30/DCR and $10k BTC, but these prices only affect the interest payments on loans. 
 
 ### Tantra Labs
 
