@@ -1,6 +1,7 @@
 ---
 author: bee
 published_utc: 2019-08-22
+updated_utc: 2019-09-15
 ---
 
 This is a compilation of arguments, concerns and questions about market making proposals.
@@ -213,6 +214,12 @@ Counterarguments:
 * Better liquidity [helps all](https://proposals.decred.org/proposals/30822c16533890abc6e243eb6d12264b207c3923c14af42cd9b883e71c7003cd/comments/82), not just speculators.
 * Side note: comforting those who have liquidity as top priority is a bad selling point for MM.
 
+> jz: If you were just judging which coins you should take a close look at based on market dynamics, you'd pretty much never end up taking the DCR dive. ([2019-08-26](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$15668513928511oqPAT:decred.org))  
+> raedah: Thicker books definitely give off the appearance of stronger activity, similar to market cap.  
+> bee: people judging coins based on market dynamics - why burn money for them?  
+> raedah: As I see it, liquidity begets liquidity refers to the psychological and confidence aspect of the market. I agree with you that it doesn't equal a fundamentally different result for coin acquisition, but being that markets themselves are psychologically driven, we cant ignore the mass perception which clearly does drive the market. Most outside investors will have a much smaller number of data points to go on when they decide to take their first dip into dcr, compared to the amount of data points decred old timers have. Bull markets themselves are the result of this psychology. Holders getting involved with decred based on strong market dynamics will beget more holders researching decred as well, creating a virtuous circle. ([2019-08-27](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$156693328510476ySLDu:decred.org))  
+> max\_bronstein: Think about all of the knowledge we had to acquire before truly understanding why Decred is such a unique project and why DCR stands a chance to become a globally-scaled, non sovereign SoV. Having a healthier market just reduces that barrier to entry.
+
 ## Q & A
 
 ### Why does it cost so much?
@@ -331,3 +338,10 @@ Monthly fee:
 
 > user39390: may be a read-only api key access to verify trading activity of MM  
 > i2trading: I think we would be open to this as long as it stayed in the hands of a key DCR rep and nobody else. There is risk for us if a bad actor was able to gain access. (chat on [2019-08-08](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$156527909310923oaewi:decred.org))
+
+### Why the RFP came after the specific offers?
+
+> jz: Because we didn't think a RFP was necessary (we were wrong).  
+> jz: The intent of the RFP actually wasn't to solicit proposals (misnomer I guess) it was to gauge stakeholder buy-in.  
+> davecgh: Based on what was said in this channel, there was no intetion of having one originally  
+> davecgh: However, due to (the perception of) a lot of negativity, jz decided to put up the RFP to even see if it was worth continuing. (chat on [2019-08-30](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$156718665015196AxXWr:decred.org))
