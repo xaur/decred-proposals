@@ -1,7 +1,7 @@
 ---
 author: bee
 published_utc: 2019-02-28
-updated_utc: 2019-08-22
+updated_utc: 2019-12-26
 ---
 
 This is a compilation of arguments and concerns about [Decred Decentralized Exchange Infrastructure](index.md) proposals.
@@ -53,6 +53,10 @@ Non-custodial DEX may attract parties who stopped trading and left traditional e
 Additionally, the DEX can serve people whose trading options are very limited, e.g. residents of countries sanctioned by countries that host popular exchanges.
 
 > I am finding it more and more difficult to buy crypto w/o KYC and this has rendered many coins totally illiquid and worthless for me. I think it will be a great way to ensure that decred always remain available to those who need it most, i.e. people in countries that are having hyperinflation or banning things outright. this will give me a chance once again to accumulate more DCR even if the UX is not the best. (@sambiohazard on [2019-02-07](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$1549545680754qobLW:decred.org))
+
+### Pro: Remove the advantage of high speed
+
+> performance isnt a huge concern for dex afaik. Nothing especially time critical there. in fact, the decred dex is specifically designed to negate the importance of performance. Epoch based matching levels the playing field for everybody, regardless of hw capability (@jholdstock on [2019-11-23](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$157451622249631HnAfj:decred.org))
 
 ### Pro: Server and client are held accountable
 
