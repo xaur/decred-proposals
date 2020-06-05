@@ -28,19 +28,18 @@ High: up to 10,000 USD
 
 Critical: up to 25,000 USD
 
-The main work that will be undertaken under the proposal.
+The main work that will be undertaken under the proposal:
 
-    Check, validate, and respond to all bug reports sent to the system.
+1. Check, validate, and respond to all bug reports sent to the system.
 
-        - If it is a serious vulnerability escalate the vulnerability to the person-in-charge of the project.
+   - If it is a serious vulnerability escalate the vulnerability to the person-in-charge of the project.
+   - If it's not a serious vulnerability then open an issue in GitHub and follow through on fixes.
 
-        - If it's not a serious vulnerability then open an issue in GitHub and follow through on fixes.
+2. Maintain constant contact with the bug reporter and keep them apprised on the status of their report.
 
-    Maintain constant contact with the bug reporter and keep them apprised on the status of their report.
+3. Decide on payout amounts.
 
-    Decide on payout amounts.
-
-    Update and maintain the decred bounty website.
+4. Update and maintain the decred bounty website.
 
 Rules and Scope can be found on https://bounty.decred.org/#Scope. This will be edited throughout the program as required.
 
@@ -60,23 +59,19 @@ All contractor work will be logged into the CMS system.
 
 The time spent to validate and write up triaged issues will be taken from the core development budget.
 
-**How the payout process works:- **
+**How the payout process works:**
 
-```
+- We actively encourage all submitters to use PGP to encrypt their emails. Once a secure channel has been established all communication is done via PGP. If the emails are not encrypted then the payout is reduced by 10% this gives the submitter incentives to encrypt their next submission without being excessively punitive.
 
-We actively encourage all submitters to use PGP to encrypt their emails. Once a secure channel has been established all communication is done via PGP. If the emails are not encrypted then the payout is reduced by 10% this gives the submitter incentives to encrypt their next submission without being excessively punitive.
+- Once a vulnerability has been verified as legitimate we get in contact with the developers to work on a fix.
 
-Once a vulnerability has been verified as legitimate we get in contact with the developers to work on a fix.
+- We wait until the bug has been fixed to determine the payout amount since the process of fixing might reveal more bugs and potentially increase the payout. (This might be subject to change if the developers take too long to fix but that's the exception rather than the rule)
 
-We wait until the bug has been fixed to determine the payout amount since the process of fixing might reveal more bugs and potentially increase the payout. (This might be subject to change if the developers take too long to fix but that's the exception rather than the rule)
+- Once the patch has been produced/merged the payout is done on the next available treasury payout. It is not fair to make a submitter wait for the 6+ months' time it might take to get a fix to the public for client-side code.
 
-Once the patch has been produced/merged the payout is done on the next available treasury payout. It is not fair to make a submitter wait for the 6+ months' time it might take to get a fix to the public for client-side code.
+- We always try to coincide the payout with the submission month payouts. (eg: if submitted on June 5th the payout will be the done on July). The dollar average rate will be for the June month.
 
-We always try to coincide the payout with the submission month payouts. (eg: if submitted on June 5th the payout will be the done on July). The dollar average rate will be for the June month.
-
-The submitter will be invited to the CMS platform on a temporary one-time account (They do not have to pass DCC). The payout will only be in DCR. The submitter will be given one month to claim the bounty after which it will be considered forfeit.
-
-```
+- The submitter will be invited to the CMS platform on a temporary one-time account (They do not have to pass DCC). The payout will only be in DCR. The submitter will be given one month to claim the bounty after which it will be considered forfeit.
 
 ## Budget:
 
