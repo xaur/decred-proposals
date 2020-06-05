@@ -59,12 +59,27 @@ I will be the main person running the day to day and will have access to view al
 
 # Costing and Funds:
 
-All work will be logged into the CMS system.
-
-Payouts are also now logged into the CMS system.
+All contractor work will be logged into the CMS system.
 
 The time spent to validate and write up triaged issues will be taken from the core development budget.
 
+**How the payout process works:- **
+
+```
+
+We actively encourage all submitters to use PGP to encrypt their emails. Once a secure channel has been established all communication is done via PGP.  If the emails are not encrypted then the payout is reduced by 10% this gives the submitter incentives to encrypt their next submission without being excessively punitive. 
+
+Once a vulnerability has been verified as legitimate we get in contact with the developers to work on a fix.
+
+We wait until the bug has been fixed to determine the payout amount since the process of fixing might reveal more bugs and potentially increase the payout. (This might be subject to change if the developers take too long to fix but that's the exception rather than the rule)
+
+Once the patch has been produced/merged the payout is done on the next available treasury payout. It is not fair to make a submitter wait for the 6+ months' time it might take to get a fix to the public for client-side code. 
+
+We always try to coincide the payout with the submission month payouts. (eg: if submitted on June 5th the payout will be the done on July). The dollar average rate will be for the June month. 
+
+The submitter will be invited to the CMS platform on a temporary one-time account (They do not have to pass DCC). The payout will only be in DCR.   The submitter will be given one month to claim the bounty after which it will be considered forfeit.
+
+```
 
 ## Budget:
 
