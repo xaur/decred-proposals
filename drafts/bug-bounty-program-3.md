@@ -28,8 +28,6 @@ High: up to 10,000 USD
 
 Critical: up to 25,000 USD
 
-
-
 The main work that will be undertaken under the proposal.
 
     Check, validate, and respond to all bug reports sent to the system.
@@ -47,7 +45,6 @@ The main work that will be undertaken under the proposal.
 Rules and Scope can be found on https://bounty.decred.org/#Scope. This will be edited throughout the program as required.
 
 # Who:
-
 
 **Validator List:** JoeGruff, Degeri (me), matheusd, jholdstock, fernandoabolafio.
 
@@ -93,7 +90,6 @@ Any other nonbounty expenditure like emailing, book-keeping, writeups, etc . (2,
 
 ##### **Total: 5,000 USD**
 
-
 Since we cannot predict the types of vulnerabilities and their severity it is not possible to have a fixed payout limit. So I am capping the maximum budget for payouts to be **100,000 USD** for the duration of this program.
 
 #### Breakdown of spendings for the past 10 months (May and June 2020 not included):-
@@ -116,7 +112,6 @@ Unreleased "Medium" level vulnerability: 3000
 
 ##### Total payouts: **3475**
 
-
 ### Breakdown of submitters:
 
 *Since July 1, 2019 *
@@ -124,8 +119,6 @@ Unreleased "Medium" level vulnerability: 3000
 Total submissions: **60**
 
 Total Unique email ID's: **36**
-
-
 
 # When and Duration:
 
