@@ -86,18 +86,18 @@ Since we cannot predict the types of vulnerabilities and their severity it is no
 May-June 2020 not included:
 
 - Website edits: 590 USD
-- Bookkeeping, Triage and mail correspondence: 1190 USD
+- Bookkeeping, Triage and mail correspondence: 1,190 USD
 
-**Total: 1780 USD**
+**Total: 1,780 USD**
 
 #### Breakdown of payouts
 
 - [Dcrdata POST based open redirect](https://github.com/decred/dcrdata/pull/1563): 90 USD
 - [Politeia Secuity headers fix](https://github.com/decred/politeiagui/pull/1744): 135 USD
 - [testnetfaucet race could drain wallet](https://github.com/decred/testnetfaucet/pull/60): 250 USD
-- Unreleased "Medium" level vulnerability: 3000 USD
+- Unreleased "Medium" level vulnerability: 3,000 USD
 
-**Total payouts: 3475 USD**
+**Total payouts: 3,475 USD**
 
 #### Breakdown of submitters
 
