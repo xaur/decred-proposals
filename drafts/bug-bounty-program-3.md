@@ -41,9 +41,9 @@ Rules and Scope can be found at [bounty.decred.org/#Scope](https://bounty.decred
 
 ## Who
 
-**Validators:** JoeGruff, Degeri (me), matheusd, jholdstock, fernandoabolafio.
+**Validators:** Degeri (me), fernandoabolafio, jholdstock, JoeGruff, matheusd
 
-**Website development:** fernandoabolafio, Degeri (me), jholdstock
+**Website development:** Degeri (me), fernandoabolafio, jholdstock
 
 ### Continuity plan
 
