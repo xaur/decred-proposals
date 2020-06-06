@@ -81,7 +81,9 @@ The last proposal spent significantly less than the budget, hence I will be slas
 
 Since we cannot predict the types of vulnerabilities and their severity it is not possible to have a fixed payout limit. So I am capping the maximum budget for payouts to be **100,000 USD** for the duration of this program.
 
-### Breakdown of spendings for the past 10 months (May and June 2020 not included)
+### Breakdown of spendings for the past 10 months
+
+May-June 2020 not included:
 
 - Website edits: 590 USD
 - Bookkeeping, Triage and mail correspondence: 1190 USD
@@ -99,11 +101,10 @@ Since we cannot predict the types of vulnerabilities and their severity it is no
 
 #### Breakdown of submitters
 
-*Since July 1, 2019 *
+Stats since July 1, 2019:
 
-Total submissions: **60**
-
-Total Unique email ID's: **36**
+- Total submissions: **60**
+- Total Unique email ID's: **36**
 
 ## When and Duration
 
