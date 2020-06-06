@@ -18,11 +18,11 @@ We will have a self-hosted program and use a @decred.org email for getting bug b
 
 Indicative payout amounts:
 
-- Note: up to 300 USD
-- Low: up to 1,000 USD
-- Medium: up to 3,000 USD
-- High: up to 10,000 USD
-- Critical: up to 25,000 USD
+- Note: up to $300
+- Low: up to $1,000
+- Medium: up to $3,000
+- High: up to $10,000
+- Critical: up to $25,000
 
 The main work that will be undertaken under the proposal:
 
@@ -73,31 +73,31 @@ The time spent to validate and write up triaged issues will be taken from the co
 
 The last proposal spent significantly less than the budget, hence I will be slashing it. I am still leaving some leeway for any surge in emails/ report counts.
 
-- Maintaining the bounty website and any updates: 1,500 USD
-- Defining policies/rules and scope: 1,000 USD
-- Any other nonbounty expenditure like emailing, book-keeping, writeups, etc.: 2,500 USD
+- Maintaining the bounty website and any updates: $1,500
+- Defining policies/rules and scope: $1,000
+- Any other nonbounty expenditure like emailing, book-keeping, writeups, etc.: $2,500
 
-**Total: 5,000 USD**
+**Total: USD 5,000**
 
-Since we cannot predict the types of vulnerabilities and their severity it is not possible to have a fixed payout limit. So I am capping the maximum budget for payouts to be **100,000 USD** for the duration of this program.
+Since we cannot predict the types of vulnerabilities and their severity it is not possible to have a fixed payout limit. So I am capping the maximum budget for payouts to be **USD 100,000** for the duration of this program.
 
 ### Breakdown of spendings for the past 10 months
 
 May-June 2020 not included:
 
-- Website edits: 590 USD
-- Bookkeeping, Triage and mail correspondence: 1,190 USD
+- Website edits: $590
+- Bookkeeping, Triage and mail correspondence: $1,190
 
-**Total: 1,780 USD**
+**Total: USD 1,780**
 
 #### Breakdown of payouts
 
-- [Dcrdata POST based open redirect](https://github.com/decred/dcrdata/pull/1563): 90 USD
-- [Politeia Secuity headers fix](https://github.com/decred/politeiagui/pull/1744): 135 USD
-- [testnetfaucet race could drain wallet](https://github.com/decred/testnetfaucet/pull/60): 250 USD
-- Unreleased "Medium" level vulnerability: 3,000 USD
+- [Dcrdata POST based open redirect](https://github.com/decred/dcrdata/pull/1563): $90
+- [Politeia Secuity headers fix](https://github.com/decred/politeiagui/pull/1744): $135
+- [testnetfaucet race could drain wallet](https://github.com/decred/testnetfaucet/pull/60): $250
+- Unreleased "Medium" level vulnerability: $3,000
 
-**Total payouts: 3,475 USD**
+**Total payouts: USD 3,475**
 
 #### Breakdown of submitters
 
