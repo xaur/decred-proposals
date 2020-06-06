@@ -83,7 +83,7 @@ Since we cannot predict the types of vulnerabilities and their severity it is no
 
 ## Phase 2 review
 
-Breakdown of spendings for July 1, 2019 - April 30, 2020 (May and June not included since they will be paid mid June and mid July, respectively):
+Breakdown of spendings for July 1, 2019 - April 30, 2020 (May and June not paid yet):
 
 - Website edits: $590
 - Bookkeeping, triage and mail correspondence: $1,190
