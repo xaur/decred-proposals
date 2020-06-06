@@ -18,15 +18,11 @@ We will have a self-hosted program and use a @decred.org email for getting bug b
 
 Indicative payout amounts:
 
-Note: up to 300 USD
-
-Low: up to 1,000 USD
-
-Medium: up to 3,000 USD
-
-High: up to 10,000 USD
-
-Critical: up to 25,000 USD
+- Note: up to 300 USD
+- Low: up to 1,000 USD
+- Medium: up to 3,000 USD
+- High: up to 10,000 USD
+- Critical: up to 25,000 USD
 
 The main work that will be undertaken under the proposal:
 
@@ -77,11 +73,9 @@ The time spent to validate and write up triaged issues will be taken from the co
 
 The last proposal spent significantly less than the budget, hence I will be slashing it. I am still leaving some leeway for any surge in emails/ report counts.
 
-Maintaining the bounty website and any updates. (1,500 USD)
-
-Defining policies/rules and scope (1,000 USD)
-
-Any other nonbounty expenditure like emailing, book-keeping, writeups, etc . (2,500 USD)
+- Maintaining the bounty website and any updates: 1,500 USD
+- Defining policies/rules and scope: 1,000 USD
+- Any other nonbounty expenditure like emailing, book-keeping, writeups, etc.: 2,500 USD
 
 **Total: 5,000 USD**
 
@@ -89,21 +83,17 @@ Since we cannot predict the types of vulnerabilities and their severity it is no
 
 ### Breakdown of spendings for the past 10 months (May and June 2020 not included)
 
-**Website edits:** 590 USD
-
-**Bookkeeping, Triage and mail correspondence:** 1190 USD
+- Website edits: 590 USD
+- Bookkeeping, Triage and mail correspondence: 1190 USD
 
 **Total: 1780 USD**
 
 #### Breakdown of payouts
 
-[Dcrdata POST based open redirect](https://github.com/decred/dcrdata/pull/1563) : 90 USD
-
-[Politeia Secuity headers fix](https://github.com/decred/politeiagui/pull/1744) : 135 USD
-
-[testnetfaucet race could drain wallet](https://github.com/decred/testnetfaucet/pull/60) : 250 USD
-
-Unreleased "Medium" level vulnerability: 3000 USD
+- [Dcrdata POST based open redirect](https://github.com/decred/dcrdata/pull/1563): 90 USD
+- [Politeia Secuity headers fix](https://github.com/decred/politeiagui/pull/1744): 135 USD
+- [testnetfaucet race could drain wallet](https://github.com/decred/testnetfaucet/pull/60): 250 USD
+- Unreleased "Medium" level vulnerability: 3000 USD
 
 **Total payouts: 3475 USD**
 
