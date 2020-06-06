@@ -1,4 +1,4 @@
-Decred Bug Bounty Proposal: Phase 3
+Decred Bug Bounty Program: Phase 3
 
 ## What
 
