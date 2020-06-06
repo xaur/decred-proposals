@@ -1,16 +1,16 @@
 Decred Bug Bounty Proposal: Phase 3
 
-# What:
+## What:
 
 This is a renewal proposal for the decred bug bounty program. The [current](https://proposals.decred.org/proposals/073694ed82d34b2bfff51e35220e8052ad4060899b23bc25791a9383375cae70) program ends on June 30th, 2020.
 
-# Why:
+## Why:
 
 The decred bug bounty program allows us to make use of external talent to find vulnerabilities. Any significant project in the cryptocurrency space needs to have a bug bounty system to be able to process vulnerability reports and to fairly pay the submitter.
 
 It also provides an incentive for a vulnerability finder to report it to us instead of selling/exploiting the vulnerability or keeping it to themselves.
 
-# How:
+## How:
 
 The website bounty.decred.org is the main source of information for bug bounty hunters.
 
@@ -43,7 +43,7 @@ The main work that will be undertaken under the proposal:
 
 Rules and Scope can be found on https://bounty.decred.org/#Scope. This will be edited throughout the program as required.
 
-# Who:
+## Who:
 
 **Validator List:** JoeGruff, Degeri (me), matheusd, jholdstock, fernandoabolafio.
 
@@ -53,7 +53,7 @@ Rules and Scope can be found on https://bounty.decred.org/#Scope. This will be e
 
 I will be the main person running the day to day and will have access to view all its spending in the CMS system. In the event, I am unable to do so due to some unforeseen circumstances the people above can choose to either shut down the program or have an all contractor vote so that someone can take over until renewal.
 
-# Costing and Funds:
+## Costing and Funds:
 
 All contractor work will be logged into the CMS system.
 
@@ -73,7 +73,7 @@ The time spent to validate and write up triaged issues will be taken from the co
 
 - The submitter will be invited to the CMS platform on a temporary one-time account (They do not have to pass DCC). The payout will only be in DCR. The submitter will be given one month to claim the bounty after which it will be considered forfeit.
 
-## Budget:
+### Budget:
 
 The last proposal spent significantly less than the budget, hence I will be slashing it. I am still leaving some leeway for any surge in emails/ report counts.
 
@@ -83,17 +83,17 @@ Defining policies/rules and scope (1,000 USD)
 
 Any other nonbounty expenditure like emailing, book-keeping, writeups, etc . (2,500 USD)
 
-##### **Total: 5,000 USD**
+**Total: 5,000 USD**
 
 Since we cannot predict the types of vulnerabilities and their severity it is not possible to have a fixed payout limit. So I am capping the maximum budget for payouts to be **100,000 USD** for the duration of this program.
 
-#### Breakdown of spendings for the past 10 months (May and June 2020 not included):-
+### Breakdown of spendings for the past 10 months (May and June 2020 not included):-
 
 **Website edits:** 590 USD
 
 **Bookkeeping, Triage and mail correspondence:** 1190 USD
 
-##### Total: **1780 USD**
+**Total: 1780 USD**
 
 #### Breakdown of payouts:
 
@@ -105,9 +105,9 @@ Since we cannot predict the types of vulnerabilities and their severity it is no
 
 Unreleased "Medium" level vulnerability: 3000 USD
 
-##### Total payouts: **3475 USD**
+**Total payouts: 3475 USD**
 
-### Breakdown of submitters:
+#### Breakdown of submitters:
 
 *Since July 1, 2019 *
 
@@ -115,6 +115,6 @@ Total submissions: **60**
 
 Total Unique email ID's: **36**
 
-# When and Duration:
+## When and Duration:
 
 This project will be approved for **1 year** (July 1, 2020 - June 30, 2021) or until the bounty/operating funds have been depleted.
