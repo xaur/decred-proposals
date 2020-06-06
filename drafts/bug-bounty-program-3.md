@@ -81,27 +81,23 @@ The last proposal spent significantly less than the budget, hence I will be slas
 
 Since we cannot predict the types of vulnerabilities and their severity it is not possible to have a fixed payout limit. So I am capping the maximum budget for payouts to be **USD 100,000** for the duration of this program.
 
-### Breakdown of spendings for the past 10 months
+## Phase 2 review
 
-May-June 2020 not included:
+Breakdown of spendings for July 1, 2019 - April 30, 2020 (May-June 2020 not included):
 
 - Website edits: $590
 - Bookkeeping, triage and mail correspondence: $1,190
+- **Total spendings: USD 1,780**
 
-**Total: USD 1,780**
-
-#### Breakdown of payouts
+Breakdown of payouts:
 
 - dcrdata: [POST-based open redirect](https://github.com/decred/dcrdata/pull/1563): $90
 - Politeia: [secuity headers fix](https://github.com/decred/politeiagui/pull/1744): $135
 - testnetfaucet: [race could drain the wallet](https://github.com/decred/testnetfaucet/pull/60): $250
 - Unreleased "Medium" level vulnerability: $3,000
+- **Total payouts: USD 3,475**
 
-**Total payouts: USD 3,475**
-
-#### Breakdown of submitters
-
-Stats since July 1, 2019:
+Breakdown of submissions (since July 1, 2019):
 
 - Total submissions: **60**
 - Total unique email IDs: **36**
