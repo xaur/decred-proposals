@@ -83,13 +83,13 @@ Since we cannot predict the types of vulnerabilities and their severity it is no
 
 ## Phase 2 review
 
-Breakdown of spendings for July 1, 2019 - April 30, 2020 (May-June 2020 not included):
+Breakdown of spendings for July 1, 2019 - April 30, 2020 (May and June not included since they will be paid mid June and mid July, respectively):
 
 - Website edits: $590
 - Bookkeeping, triage and mail correspondence: $1,190
 - **Total spendings: USD 1,780**
 
-Breakdown of payouts:
+Breakdown of payouts (July 1, 2019 - May 31, 2020):
 
 - dcrdata: [POST-based open redirect](https://github.com/decred/dcrdata/pull/1563): $90
 - Politeia: [secuity headers fix](https://github.com/decred/politeiagui/pull/1744): $135
@@ -97,7 +97,7 @@ Breakdown of payouts:
 - Unreleased "Medium" level vulnerability: $3,000
 - **Total payouts: USD 3,475**
 
-Breakdown of submissions (since July 1, 2019):
+Breakdown of submissions (July 1, 2019 - May 31, 2020):
 
 - Total submissions: **60**
 - Total unique email IDs: **36**
