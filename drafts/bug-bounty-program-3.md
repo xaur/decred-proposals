@@ -12,7 +12,7 @@ It also provides an incentive for a vulnerability finder to report it to us inst
 
 ## How
 
-The website bounty.decred.org is the main source of information for bug bounty hunters.
+The website [bounty.decred.org](https://bounty.decred.org/) is the main source of information for bug bounty hunters.
 
 We will have a self-hosted program and use a @decred.org email for getting bug bounty reports. The bug bounty hunters will be sending us PGP encrypted emails of their findings in a predefined format.
 
@@ -37,7 +37,7 @@ The main work that will be undertaken under the proposal:
 
 4. Update and maintain the decred bounty website.
 
-Rules and Scope can be found on https://bounty.decred.org/#Scope. This will be edited throughout the program as required.
+Rules and Scope can be found at [bounty.decred.org/#Scope](https://bounty.decred.org/#Scope). This will be edited throughout the program as required.
 
 ## Who
 
