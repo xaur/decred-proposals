@@ -89,23 +89,23 @@ Since we cannot predict the types of vulnerabilities and their severity it is no
 
 #### Breakdown of spendings for the past 10 months (May and June 2020 not included):-
 
-**Website edits:** 590
+**Website edits:** 590 USD
 
-**Bookkeeping, Triage and mail correspondence:** 1190
+**Bookkeeping, Triage and mail correspondence:** 1190 USD
 
-##### Total: **1780**
+##### Total: **1780 USD**
 
 #### Breakdown of payouts:
 
-[Dcrdata POST based open redirect](https://github.com/decred/dcrdata/pull/1563) : 90
+[Dcrdata POST based open redirect](https://github.com/decred/dcrdata/pull/1563) : 90 USD
 
-[Politeia Secuity headers fix](https://github.com/decred/politeiagui/pull/1744) : 135
+[Politeia Secuity headers fix](https://github.com/decred/politeiagui/pull/1744) : 135 USD
 
-[testnetfaucet race could drain wallet](https://github.com/decred/testnetfaucet/pull/60) : 250
+[testnetfaucet race could drain wallet](https://github.com/decred/testnetfaucet/pull/60) : 250 USD
 
-Unreleased "Medium" level vulnerability: 3000
+Unreleased "Medium" level vulnerability: 3000 USD
 
-##### Total payouts: **3475**
+##### Total payouts: **3475 USD**
 
 ### Breakdown of submitters:
 
