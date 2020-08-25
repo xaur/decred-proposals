@@ -33,7 +33,7 @@ Award recipients will be nominated by existing coding contractors since no other
 // Could just post the question on Matrix (I believe all contractors use Matrix...)
 
 Outreach to (B)IP authors should be done by individuals well known, ideally both within the Decred community and also on social media. Direct contact should be sought with the authors first followed by contact over social media channels. Permission for a short video interview (30 minutes) would be sought and should focus on the reason the (B)IP was created.
-// checkmate, richard red, exitus, permabull nino, jz
+// checkmate, richard red, exitus, permabull nino, jz, ammarooni, svitekpavel [feel free to add your name here!]
 
 Since we would know who the reward recipients will be in advance of the recipients themselves, we should take the opportunity to prepare some media pieces for release. The topics to focus on should include:
 - Reason the (B)IP was created, the problem that it identifies and addresses
@@ -66,28 +66,4 @@ Our media pieces should also take the opportunity to highlight how funding was o
 - COULD THE MEDIA PUBLICITY BACKFIRE?
 
 
-
-
----------------------------------------
-@richard red comments:
-Hey, no problem
-it's missing some detail on how it would work in practice. who selects the recipients? how does a recipient accept or reject this reward? how do we know the DCR is really being paid to the right person?
-would the BIP authors have to come and claim it or does someone seek them out?
-
-@checkmatey
-The idea is interesting but im really not sure about it. What BIPs or devs would you be considering?
-To be honest, I would rather put up bounties for those interested to do work for the project
-Remember, DCR was built from its own Bitcoin implementation. The decred devs already gifted that tech for free 
-LND wouldnt exist without it
-And that code was shunned and cursed by the bitcoin.devs
-Despite being quality code and very useful.
-I dont believe this is a great way to earn much more than 1000DCR worth of sell pressure.
-
-@davecgh
-That really largely depends if you want to consider early BIPs well before Decred ever started that were inherited.
-I would say those probably really don't matter since Decred didn't exist.  Since then though, I think 4
-
-@jet_user
-In a way Decred is already taking advantage of the thoughtwork done for some BIPs. Talking about client-side filters of course (BIP 157 and 158). A related thing is CSPP, which iirc does not have a BIP. What both of these pieces of work have in common is that they received a serious engineering effort to implement in Decred. I think people who have spent significant effort developing these ideas would be happy to know they came to reality in Decred, even though they were originally intended for another system.
-
-Airdropping DCR on these talented people is a very interesting idea in line with our builder culture. I cannot lead organizing this, but if someone does I'd throw a few DCR in the pool!
+*** INTERESTED IN HELPING OUT, ADD YOUR DETAILS BELOW ***
