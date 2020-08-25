@@ -1,7 +1,3 @@
-Last updated 23/aug
-
-** Introduction
-
 BIPs are design documents for introducing new features into Bitcoin (similar "improvement proposal" systems exist for other Blockchain projects). For example, BIP 32 by Pieter Wuille introduced HD wallets into the Bitcoin ecosystem. This greatly simplified private key management and allowed for deterministic wallets to be interchanged between different clients or backed up through the use of seed words. Although not specifically designed for Decred, BIPs like this example have been successfully integrated into Decred helping advance the Decred project. Since the inception of Decred @davecgh estimates 4 BIPs have been incorporated. 
 
 The individuals or groups capable of developing BIPs represent a small pool of developers familiar with Blockchain fundamentals who are interested in improving Bitcoin. It would be to our benefit that we attract such talent. I propose using a small portion of the treasury funds as a reward for BIP or other "IP" authors if their work has contributed to the advancement of the Decred project. I think 1000 DCR per BIP [actual amount to be decided upon later via feedback] represents a reasonable acknowledgement of their work. The reward will only be given out once in the event an author has contributed more than 1 BIP.
