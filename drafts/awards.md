@@ -2,7 +2,7 @@
 
 ## Introduction
 
-BIPs are design documents for introducing new features into Bitcoin (similar "improvement proposal" systems exist for other Blockchain projects). For example, BIP 32 by Pieter Wuille introduced HD wallets into the Bitcoin ecosystem. This greatly simplified private key management and allowed for deterministic wallets to be interchanged between different clients or backed up through the use of seed words. Although not specifically designed for Decred, BIPs like this example have been successfully integrated into Decred helping advance the Decred project. Since the inception of Decred @davecgh estimates 4 BIPs have been incorporated. 
+BIPs are design documents for introducing new features into Bitcoin (similar "improvement proposal" systems exist for other Blockchain projects). For example, BIP 32 by Pieter Wuille introduced HD wallets into the Bitcoin ecosystem. This greatly simplified private key management and allowed for deterministic wallets to be interchanged between different clients or backed up through the use of seed words. Although not specifically designed for Decred, BIPs like this example have been successfully integrated into Decred helping advance the Decred project. Since the inception of Decred @davecgh estimates 4 BIPs have been incorporated.
 
 The individuals or groups capable of developing (B)IPs represent a small pool of developers familiar with Blockchain fundamentals who are interested in improving Bitcoin or their respective project. It would be to our benefit that we attract such talent. I propose using a small portion of the treasury funds as an award for (B)IP authors if their work has contributed to the advancement of the Decred project. I think 1000 DCR per BIP [actual amount to be decided upon later: will depend on number of reward candidates and other possible expenses] represents a reasonable acknowledgement of their contribution. The reward will only be given out once in the event an author(s) has contributed more than 1 BIP.
 
@@ -16,7 +16,7 @@ In order to capitalize on this we will need to give our media team lead time to 
 
 ## Financial Considerations
 
-The only funds requested are those that go to the rewards. 
+The only funds requested are those that go to the rewards.
 // Assuming 3-6 awards, that would be 3000-6000 DCR
 // Perhaps an alternative format to consider would be to award the 3 best (B)IPs that have improved Decred which would then limit the 'costing' of this proposal.
 
@@ -25,7 +25,7 @@ I hope the media team does not request payment as well as I feel it undermines/c
 // This may be wishful thinking on my part so will budget in here
 // [budget to complete later]
 // --> Perhaps they could be compensated by community donations (risky as there may be no donors...)
-// ---> What about corporate sponsorship? (Would they go for this? Will this look bad? Worse, BACKFIRE?) 
+// ---> What about corporate sponsorship? (Would they go for this? Will this look bad? Worse, BACKFIRE?)
 // --> Could be used as proof of 'work' for aspiring media contractors... (maybe nobody will take the bite)
 
 ## Execution
@@ -36,7 +36,7 @@ Award recipients will be nominated by existing coding contractors since no other
 
 Outreach to (B)IP authors should be done by individuals well known, ideally both within the Decred community and also on social media. Direct contact should be sought with the authors first followed by contact over social media channels. Permission for a short video interview (30 minutes) would be sought and should focus on the reason the (B)IP was created.
 // I'm thinking: checkmate, richard red, exitus, permabull nino, jz, ammarooni, svitekpavel [feel free to add your name here!]
-// They've not been approached yet! 
+// They've not been approached yet!
 
 Since we would know who the reward recipients will be in advance of the recipients themselves, we should take the opportunity to prepare some media pieces for release. The topics to focus on should include:
 - Reason the (B)IP was created, the problem that it identifies and addresses
@@ -45,7 +45,7 @@ Since we would know who the reward recipients will be in advance of the recipien
 // who would be willing to write? Do we need to vet the documents? I would be happy to but I also realize to the community I am a reasonably unknown entity (by choice).
 
 Our media pieces should also take the opportunity to highlight how funding was obtained to promote our self sovereign treasury and to distinguish it from how other cryptocurrency projects are funded.
-// Obtaining expression of interest for social media personnel, interviewers, bloggers, etc. 
+// Obtaining expression of interest for social media personnel, interviewers, bloggers, etc.
 // If they do this for a fee we might be perceived as just doing this as a PR stunt which may alienate the award winners...
 
 ## Issues
