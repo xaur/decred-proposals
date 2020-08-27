@@ -1,6 +1,6 @@
-****Feel free to share within Decred community****
+**Feel free to share within Decred community**
 
-** Introduction
+## Introduction
 
 BIPs are design documents for introducing new features into Bitcoin (similar "improvement proposal" systems exist for other Blockchain projects). For example, BIP 32 by Pieter Wuille introduced HD wallets into the Bitcoin ecosystem. This greatly simplified private key management and allowed for deterministic wallets to be interchanged between different clients or backed up through the use of seed words. Although not specifically designed for Decred, BIPs like this example have been successfully integrated into Decred helping advance the Decred project. Since the inception of Decred @davecgh estimates 4 BIPs have been incorporated. 
 
@@ -14,8 +14,8 @@ The secondary aims of this proposal are to highlight our treasury and governance
 
 In order to capitalize on this we will need to give our media team lead time to prepare. It would be vital to tap into media networks covering other projects so that news about Decred can break outside the bounds of /r/decred and #decred --the way to break down crypto tribalism and build relationships between our community and the others.
 
+## Financial Considerations
 
-** Financial Considerations
 The only funds requested are those that go to the rewards. 
 // Assuming 3-6 awards, that would be 3000-6000 DCR
 // Perhaps an alternative format to consider would be to award the 3 best (B)IPs that have improved Decred which would then limit the 'costing' of this proposal.
@@ -28,7 +28,8 @@ I hope the media team does not request payment as well as I feel it undermines/c
 // ---> What about corporate sponsorship? (Would they go for this? Will this look bad? Worse, BACKFIRE?) 
 // --> Could be used as proof of 'work' for aspiring media contractors... (maybe nobody will take the bite)
 
-** Execution
+## Execution
+
 Award recipients will be nominated by existing coding contractors since no other group would have the required knowledge of which improvement protocols or ideas were used. Award recipients and their corresponding (B)IPs could be verified by everybody else in during the 'In Discussion' phase of the Politea process. The recipients will all be mentioned by name along with their contribution in during the 'Voting" phase of the Politea process.
 // Our contractors only need to identify the idea and author(s) involved so this should not take long.
 // Could just post the question on Matrix (I believe all contractors use Matrix...)
@@ -47,7 +48,7 @@ Our media pieces should also take the opportunity to highlight how funding was o
 // Obtaining expression of interest for social media personnel, interviewers, bloggers, etc. 
 // If they do this for a fee we might be perceived as just doing this as a PR stunt which may alienate the award winners...
 
-** Issues
+## Issues
 
 - Treatment of (B)IPs that were 'inherited' before Decred started
 --> Will need to get numbers and (B)IPs that fall into category. Current thought is that we need to define a start point or we may have too many reward recipients.
