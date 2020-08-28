@@ -13,7 +13,15 @@ As our community grows and more contractors around the world earn DCR it becomes
 
 ## What
 
-Integrate Decred into the BTCPay Server in order to facilitate Decred's merchant acceptance through the standard open source infrastructure. BTCPay Server is an open-source, self-hosted cryptocurrency payment processor that allows merchants to not depend on any third-party to accept payments where each deployment requires users to have their own full node.
+Integrate Decred into the BTCPay Server in order to facilitate Decred's merchant acceptance through the standard open-source infrastructure.
+
+Quoting from its [README](https://github.com/btcpayserver/btcpayserver):
+
+> BTCPay Server is a free and open-source cryptocurrency payment processor which allows you to receive payments in Bitcoin and altcoins directly, with no fees, transaction cost or a middleman.
+> 
+> BTCPay Server is a non-custodial invoicing system which eliminates the involvement of a third-party. Payments with BTCPay Server go directly to your wallet, which increases the privacy and security. Your private keys are never uploaded to the server. There is no address re-use, since each invoice generates a new address deriving from your xpubkey.
+> 
+> The software is built in C# and conforms to the invoice [API of BitPay](https://bitpay.com/api). It allows for your website to be easily migrated from BitPay and configured as a self-hosted payment processor.
 
 ## How
 
