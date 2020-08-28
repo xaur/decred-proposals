@@ -17,11 +17,11 @@ Integrate Decred into the BTCPayServer in order to facilitate Decred’s merchan
 
 ## How
 
-Design and document for RFP. 
-Collect feedback from the community 
-Understand the process and details of the integration to calculate a cost. 
-BTCPayServer offers a compressive documentation and excellent support via mattermost chat. They have agreed to schedule a call with Decred devs in order to provide more details and guidance on how to set up. According to the BTCPayServer team their software is written in C# and utilices Docker.
-The software implementing the Proposal will be published in Decred’s GitHub.
+- Design and document for RFP. 
+- Collect feedback from the community 
+- Understand the process and details of the integration to calculate a cost. 
+- BTCPayServer offers a compressive documentation and excellent support via mattermost chat. They have agreed to schedule a call with Decred devs in order to provide more details and guidance on how to set up. According to the BTCPayServer team their software is written in C# and utilices Docker.
+- The software implementing the Proposal will be published in Decred’s GitHub.
 
 ## Who
 
@@ -30,24 +30,26 @@ The who of this proposal Is up for Decred community that would want to take the 
 ## When
 
 The expected time of competition will depend on the details of this RFP. 
+
 Looking at the Monero integration maybe we could think about the following expected time frames, two months of competition and 4 months maximum. 
 
- *One of the objectives of this proposal is to get more feedback from the devs at Decred in order to get an estimate of completion hours, to draw an estimate budget required. 
+One of the objectives of this proposal is to get more feedback from the devs at Decred in order to get an estimate of completion hours, to draw an estimate budget required. 
 
 ## Resources
 
-https://github.com/btcpayserver/btcpayserver-doc/blob/master/Altcoins.md
-https://docs.btcpayserver.org/development/altcoins 
-https://github.com/btcpayserver/btcpayserver
-https://github.com/dgarage/NBXplorer
-https://github.com/MetacoSA/NBitcoin/tree/master/NBitcoin.Altcoins
+- https://github.com/btcpayserver/btcpayserver-doc/blob/master/Altcoins.md
+- https://docs.btcpayserver.org/development/altcoins 
+- https://github.com/btcpayserver/btcpayserver
+- https://github.com/dgarage/NBXplorer
+- https://github.com/MetacoSA/NBitcoin/tree/master/NBitcoin.Altcoins
 
 Conversations about BTCPayServer integration at Decred’s community:
-https://riot.im/app/#/room/#general:decred.org/$15599002037879SAVVU:decred.org
-https://riot.im/app/#/room/!MiucsxxSPQBpoidaHN:decred.org/$15589903183980CNTkS:decred.org
-https://twitter.com/marco_peereboom/status/1113874713753862145
 
+- https://riot.im/app/#/room/#general:decred.org/$15599002037879SAVVU:decred.org
+- https://riot.im/app/#/room/!MiucsxxSPQBpoidaHN:decred.org/$15589903183980CNTkS:decred.org
+- https://twitter.com/marco_peereboom/status/1113874713753862145
 
 Monero integration:
-https://www.reddit.com/r/Monero/comments/afunma/btcpayserver_integration_updates/
-https://repo.getmonero.org/monero-project/ccs-proposals/merge_requests/63
+
+- https://www.reddit.com/r/Monero/comments/afunma/btcpayserver_integration_updates/
+- https://repo.getmonero.org/monero-project/ccs-proposals/merge_requests/63
