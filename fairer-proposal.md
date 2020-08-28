@@ -25,6 +25,6 @@ You can see a diff of the proposed copy changes [here](https://github.com/Richar
 
 ## Supporting work
 
-The extra box on the home page would need a background graphic, and the Fair page would need three images, plus an explainer video to be consistent with the other pages.
+The extra box on the home page would need a background graphic, and the Fair page would need three images, plus an explainer video to be consistent with the other pages. In the interests of keeping costs low and time to deployment speedy, we are proposing that **no new video is created for this new page**.
 
 The new elements follow existing patterns so the amount of work needed to add them on the site is small.
