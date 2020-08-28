@@ -37,16 +37,16 @@ One of the objectives of this proposal is to get more feedback from the devs at 
 
 ## Resources
 
-- https://github.com/btcpayserver/btcpayserver-doc/blob/master/Altcoins.md
-- https://docs.btcpayserver.org/development/altcoins
+- https://github.com/btcpayserver/btcpayserver-doc/blob/master/docs/Altcoins.md
+- https://docs.btcpayserver.org/Altcoins/
 - https://github.com/btcpayserver/btcpayserver
 - https://github.com/dgarage/NBXplorer
 - https://github.com/MetacoSA/NBitcoin/tree/master/NBitcoin.Altcoins
 
 Conversations about BTCPay Server integration at Decred's community:
 
-- https://riot.im/app/#/room/#general:decred.org/$15599002037879SAVVU:decred.org
-- https://riot.im/app/#/room/!MiucsxxSPQBpoidaHN:decred.org/$15589903183980CNTkS:decred.org
+- https://chat.decred.org/#/room/!MgQoetFiyjrHAywokv:decred.org/$15599002037879SAVVU:decred.org
+- https://chat.decred.org/#/room/!MiucsxxSPQBpoidaHN:decred.org/$15589903183980CNTkS:decred.org
 - https://twitter.com/marco_peereboom/status/1113874713753862145
 
 Monero integration:
