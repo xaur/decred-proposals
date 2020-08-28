@@ -1,3 +1,8 @@
+---
+author: elian
+published_utc: 2019-06-20
+---
+
 RFP BTCPayServer
 
 Software Feature Proposal
