@@ -19,12 +19,12 @@ Page copy:
 
 
 
-You can see these changes mocked up (without new graphics) on a test site [here](https://dcrweb.jamieholdstock.com/). 
+You can see these changes mocked up (without new graphics) on a test site [here](https://dcrweb.jamieholdstock.com/) (thanks @jholdstock). 
 
 You can see a diff of the proposed copy changes [here](https://github.com/RichardRed0x/dcrweb/pull/1/files#diff-da0b9b343df776ad7bd4ff7ab3b3625d).
 
 ## Supporting work
 
-The extra box on the home page would need a background graphic, and the Fair page would need three images, plus an explainer video to be consistent with the other pages. In the interests of keeping costs low and time to deployment speedy, we are proposing that **no new video is created for this new page**.
+The extra box on the home page would need a background graphic, and the Fair page would need three images, plus an explainer video to be consistent with the other pages. In the interests of keeping costs low and time to deployment rapid, we are proposing that **no new video is created for this new page**.
 
 The new elements follow existing patterns so the amount of work needed to add them on the site is small.
