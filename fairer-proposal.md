@@ -21,7 +21,7 @@ Page copy:
 
 You can see these changes mocked up (without new graphics) on a test site [here](https://dcrweb.jamieholdstock.com/). 
 
-You can see a diff of the proposed copy changes (here)[https://github.com/RichardRed0x/dcrweb/pull/1/files#diff-da0b9b343df776ad7bd4ff7ab3b3625d].
+You can see a diff of the proposed copy changes [here](https://github.com/RichardRed0x/dcrweb/pull/1/files#diff-da0b9b343df776ad7bd4ff7ab3b3625d).
 
 ## Supporting work
 
