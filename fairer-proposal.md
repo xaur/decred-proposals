@@ -6,6 +6,8 @@ The tagline would change to: Stakeholder-Governed Sound Money
 
 This proposal would add a new element to the explanation of Decred on decred.org: **Fair**
 
+Where the string "Secure. Adaptable. Sustainable." appears, we will add "Fair." 
+
 This theme will have a box on the front page and its own page, as with Secure, Adaptable and Sustainable.
 
 ### Box copy:
