@@ -1,5 +1,7 @@
 # Stakeholder-Governed Sound Money for a Fairer Financial System
 
+[See it live! (thanks @jholdstock)](https://dcrweb.jamieholdstock.com/)
+
 ## Summary of changes
 
 The tagline would change to: Stakeholder-Governed Sound Money 
