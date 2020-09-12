@@ -1,7 +1,7 @@
 ## Abstract
 
 This Politea proposal seeks approval to establishing an award for three individuals or parties with talent that may benefit the Decred project who are not currently directly contributing to Decred. It specifies a total amount of 1500 DCR spread equally between 3 awards be set aside. It is the first of three related proposals. The second proposal will deal with who the awards will go to and the third proposal will deal with the funding for content creation surrounding the award.
-> - Need estimate for content creation. @Richard-Red
+> - Need estimate for content creation. @Richard-Red @PR team
 
 ## Introduction
 
@@ -24,9 +24,10 @@ To maximize the positivity surrounding the awards, media networks covering other
 
 This first proposal, **Establishing the Award**, is to seek community approval to set aside 1500 DCR + 300 USD to be used at the basis of the awards. The community will vote on whether they agree in principle for the award. No funds will leave the treasury.
 
+
 ## Candidate Nomination
 The second proposal, **Candidate Nomination**, is to tie the award previously voted for to the top three nominees, secure community approval to commit the funds to the nominees and to set the stage for the third and final proposal, **Content Creation**. Funds will only be debited from the treasury on completion of all three proposals.
-> // Factored in cost of the actual award itself, the award itself should cost less than 100 USD each and should be crypto/Decred focused.
+> // Factored in cost of the actual award itself, the award itself should cost less than 100 USD each and should be crypto/Decred focused. We should also include some Testnet DCR with the award, a numerically identical amount looks best.
 
 Candidate nomination will begin if the first proposal to establish the award passes. As author of this proposal, I do not request payment and exclude myself from being a candidate or benificiary of these awards, directly or indirectly, to prevent any conflicts of interest arising. Should the first proposal fail to pass, the subsequent two proposals will be abandoned and not brought to vote.
 
@@ -36,7 +37,7 @@ Award recipients will be nominated by our existing developers/contractors since 
 # Nominee Ranking
 Nominees and their corresponding IPs will be open to verification by the public. It is expected the nomination phase will result in more than three nominees. The preferred way to rank nominees will be to use the RFP process ([example here](https://test-proposals.decred.org/proposals/0de5bd8)). Candidates will be ranked by the community based on the 'yes/no' ratios since Politea only has support for binary outcomes at this point of time. However, if that system is unavailable for use, the only rasonable choice left for ranking is that it be done by our developers using a point based system, this would be less than ideal as there are multiple sources of bias. Developers would not be permitted to rank their own candidates. I think it would be reasonable to exclude candidates that are known to be openly hostile towards our project as we do not want a situation where we are accused of trying to buy their approval.
 
-Once the top three nominees have been identified, they will be included in the voting phase of the politea proposal "Candidate Nomination" and the community will vote on whether to go ahead with the awards. 
+Once the top three nominees have been identified, they will be included in the voting phase of the politea proposal "Candidate Nomination" and the community will vote on whether to go ahead with the awards.
 > // Should the complete rankings be made public if done by our developers? May lead to conflict, bad blood, hurt feelings and derail round 2 of awards if round 1 is successful...
 
 ### Outreach Process
@@ -49,11 +50,11 @@ Once the nominees have been ranked, the outreach process will start. Outreach to
 ### Content Creation
 Once 3 nominees have accepted the award or if the end of the list has been reached, we will move to secure funding for the content creation.
 
->- // What happens if stage 1 and 2 reached but no funding approval for media?
-- // Can our PR team help out here?
--// Is this a good method? Maybe better to secure funding for media first...
--// I'm thinking at least a podcast and 2 articles written up per award <-- comments?
--// My initial thoughts had been to prepare the articles ahead of time, but this could result in work that will not see the light of day and waste time.
+> // What happens if stage 1 and 2 reached but no funding approval for media?  
+// Can our PR team help out here?  
+// Is this a good method? Maybe better to secure funding for media first...  
+// I'm thinking at least a podcast and 2 articles written up per award <-- comments?  
+// My initial thoughts had been to prepare the articles ahead of time, but this could result in work that will not see the light of day and waste time.
 
 The articles produced could focus on:
 - Reason the IP was published, the problem that it identifies and addresses
@@ -64,7 +65,7 @@ The articles produced could focus on:
 
 # Possible Issues
 
->-Who would be willing to write? Do we need to vet the documents? I would be happy to but I also realize to the community I am a reasonably unknown entity (by choice) and there are others who write better than I do!
+>Who would be willing to write? Do we need to vet the documents? I would be happy to but I also realize to the community I am a reasonably unknown entity (by choice) and there are others who write better than I do!
 - Obtaining expression of interest for social media personnel, interviewers, bloggers, etc.
 - If they do this for a fee we might be perceived as just doing this as a PR stunt which may alienate the award winners...
 - Recipients may reject our reward or decline being interviewed.
