@@ -50,7 +50,7 @@ You can see a diff of the proposed copy changes [here](https://github.com/decred
 
 ## Supporting work
 
-The extra box on the home page would need a background graphic, and the Fair page would need three images. The cost for these to be produced by the same design contributors who worked on the rest of the site is estimated to be $600-1200.
+The extra box on the home page would need a background graphic, and the Fair page would need three images. The cost for these to be produced by the same design contributors who worked on the rest of the site is estimated to be $600-1,200.
 
 To be consistent with the other pages, the Fair page would need a video. However, the videos are not very prominent on the page so we have decided to forego a new "Fair" video as this would be a significant additional cost and would likely take quite some time to produce.
 
@@ -64,8 +64,8 @@ As decred.org is in 12 languages, this new copy would have to be translated 11 t
 
 | Item           | Estimated Cost | Maximum Budget |
 |----------------|---------------:|---------------:|
-| Design         |            900 |           1200 |
+| Design         |            900 |          1,200 |
 | Copy           |            400 |            600 |
-| Translation    |           1100 |           1400 |
+| Translation    |          1,100 |          1,400 |
 | Implementation |            400 |            600 |
-| Total          |           2800 |           3800 |
+| Total          |          2,800 |          3,800 |
