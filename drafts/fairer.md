@@ -29,15 +29,15 @@ Links at the bottom:
 > Contributors to the Decred project have a shared ambition, to build a fairer financial system by leveraging open source cryptocurrency software. Decentralized Credits (DCR) are the currency of this fairer financial system, everyone can own and use them - and have a voice in governance of the network if they choose to.
 
 > **The Fiat Currency Game is Rigged**
-
+> 
 > Our national fiat currencies and associated payment rails are controlled by a network of elites representing banks and public institutions. Cryptocurrency is about producing an alternative infrastructure for money, which is less susceptible to being captured and controlled by an elite because it is decentralized and permissionless. Satoshi Nakamoto invented Bitcoin, which relies on transparent distributed records and a game of computational power to ensure that everyone follows the rules and the network as a whole operates as intended. The consensus rules of the network bind all of its users together, and they stipulate an issuance schedule for the currency, which has been followed faithfully since launch. The distributed network and permissionless mining means it is difficult to stop or censor someone's transactions as long as they follow the network's rules.
 
 > **Blockchain Governance Matters**
-
+> 
 > Cryptocurrency networks rely on their software to enforce the rules of the network, known as consensus rules, because it is consensus on how to apply these rules that keeps the network together and functional. Software must be continuously maintained and improved, for cryptocurrencies this means in practice that sometimes the consensus rules need to be amended. Decred was founded on the insight that governance is a major challenge for decentralized networks, because there are many competing interests when it comes to making changes. Decred's solution was to include a formal method of making these decisions from the beginning, so that new users know from the outset how its governance works, transparently managing expectations.
 
 > **Aligned Incentives, Skin in the Game**
-
+> 
 > Decred's position is that the best way to decentralize governance of a cryptocurrency fairly is to distribute decision-making power among the people who hold its asset - DCR in this case. However, giving voting rights to everyone who is holding DCR and could immediately sell it is open to abuse. Therefore Decred's design introduced a requirement that in order to participate in Proof-of-Stake voting a user must time-lock some of their DCR to secure a ticket. When stakeholders use DCR to secure a ticket, they cannot spend it until that ticket has voted - which can take up to 142 days. For more information about Proof-of-Stake voting, see the [documentation site](https://docs.decred.org/proof-of-stake/overview/).
 
 **Box footer text:**
