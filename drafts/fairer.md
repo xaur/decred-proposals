@@ -4,11 +4,11 @@
 
 ## Summary of changes
 
-The tagline would change to: Stakeholder-Governed Sound Money 
+The tagline would change to: Stakeholder-Governed Sound Money
 
 This proposal would add a new element to the explanation of Decred on decred.org: **Fair**
 
-Where the string "Secure. Adaptable. Sustainable." appears, we will add "Fair." 
+Where the string "Secure. Adaptable. Sustainable." appears, we will add "Fair."
 
 This theme will have a box on the front page and its own page, as with Secure, Adaptable and Sustainable.
 
@@ -39,11 +39,11 @@ Read about the Decred Airdrop and Founders' Reward
 
 > Decred's position is that the best way to decentralize governance of a cryptocurrency fairly is to distribute decision-making power among the people who hold its asset - DCR in this case. However, giving voting rights to everyone who is holding DCR and could immediately sell it is open to abuse. Therefore Decred's design introduced a requirement that in order to participate in Proof-of-Stake voting a user must time-lock some of their DCR to secure a ticket. When stakeholders use DCR to secure a ticket, they cannot spend it until that ticket has voted - which can take up to 142 days. For more information about Proof-of-Stake voting, see the [documentation site](https://docs.decred.org/proof-of-stake/overview/).
 
-**Box footer text:** 
+**Box footer text:**
 
 > Learn about Decred's rules, which are the same for everyone, and put the holders of decentralized credits in charge of running the network.
 
-You can see these changes mocked up (without new graphics) on a test site [here](https://dcrweb.jamieholdstock.com/). 
+You can see these changes mocked up (without new graphics) on a test site [here](https://dcrweb.jamieholdstock.com/).
 
 You can see a diff of the proposed copy changes [here](https://github.com/decred/dcrweb/compare/master...jholdstock:fair?expand=1).
 
