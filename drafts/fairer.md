@@ -12,7 +12,7 @@ Where the string "Secure. Adaptable. Sustainable." appears, we will add "Fair."
 
 This theme will have a box on the front page and its own page, as with Secure, Adaptable and Sustainable.
 
-### Box copy:
+### Home page box copy
 
 > **Fair**
 > 
@@ -24,7 +24,7 @@ Links at the bottom:
 > Read the Decred Constitution  
 > Read about the Decred Airdrop and Founders' Reward
 
-### Page copy:
+### Fair page copy
 
 > Contributors to the Decred project have a shared ambition, to build a fairer financial system by leveraging open source cryptocurrency software. Decentralized Credits (DCR) are the currency of this fairer financial system, everyone can own and use them - and have a voice in governance of the network if they choose to.
 
