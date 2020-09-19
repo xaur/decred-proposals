@@ -62,7 +62,6 @@ As decred.org is in 12 languages, this new copy would have to be translated 11 t
 
 ## Costs
 
-```markdown
 | Item           | Estimated Cost | Maximum Budget |
 |----------------|----------------|----------------|
 | Design         | 900            | 1200           |
@@ -70,4 +69,3 @@ As decred.org is in 12 languages, this new copy would have to be translated 11 t
 | Translation    | 1100           | 1400           |
 | Implementation | 400            | 600            |
 | Total          | 2800           | 3800           |
-```
