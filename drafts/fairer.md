@@ -14,14 +14,15 @@ This theme will have a box on the front page and its own page, as with Secure, A
 
 ### Box copy:
 
-```
-Fair
-The Decred network is available to all, and the rules are the same for everyone. Decred is governed by its stakeholders, who time-lock some of their decentralized credits in exchange for tickets, using these to vote and make decisions about the Decred network and DCR asset's future.
+> **Fair**
+> 
+> The Decred network is available to all, and the rules are the same for everyone. Decred is governed by its stakeholders, who time-lock some of their decentralized credits in exchange for tickets, using these to vote and make decisions about the Decred network and DCR asset's future.
+
 Links at the bottom:
-Read More About Building a Fairer Financial System
-Read the Decred Constitution
-Read about the Decred Airdrop and Founders' Reward
-```
+
+> Read More About Building a Fairer Financial System  
+> Read the Decred Constitution  
+> Read about the Decred Airdrop and Founders' Reward
 
 ### Page copy:
 
