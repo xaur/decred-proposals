@@ -1,3 +1,9 @@
+---
+author: kozel
+published_utc: 2020-08-25
+published_url: https://www.reddit.com/r/decred/comments/igfqjc/decred_content_and_asset_translation_proposal_an/
+---
+
 Dear Community,
 
 I would like to share an early draft for the Decred Content and Asset Translation proposal to collect any an all feedback regarding this initiative.
