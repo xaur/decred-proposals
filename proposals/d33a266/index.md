@@ -1,9 +1,12 @@
-# Decred Bug Bounty Program
+---
+title: Decred Bug Bounty Proposal
+proposal_token: d33a2667469b56942adf42453def6cc2292325251e4cf791e806939ea9efc9e1
+approved_utc: 2018-12-28
+---
 
-## Proposals
+## Billing period
 
-- [Decred Bug Bounty Proposal](https://proposals.decred.org/proposals/d33a2667469b56942adf42453def6cc2292325251e4cf791e806939ea9efc9e1)
-- [Decred Bug Bounty Proposal: Phase 2](https://proposals.decred.org/proposals/073694ed82d34b2bfff51e35220e8052ad4060899b23bc25791a9383375cae70)
+January 1, 2019 till June 30, 2019 (6 months).
 
 ## Deliverables
 
