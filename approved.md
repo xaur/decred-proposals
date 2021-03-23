@@ -1,3 +1,5 @@
+## Approved Proposals
+
 This page helps to monitor which approved proposals are ending soon and require a renewal for continued funding.
 
 - `start` and `end` are first and last day when paid work can occur and be billed for, but the invoice may be submitted after the `end` date.
