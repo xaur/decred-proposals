@@ -1,10 +1,12 @@
 ## Approved Proposals
 
-This page helps to monitor which approved proposals are ending soon and require a renewal for continued funding.
+Here you can check which approved proposals are ending soon and require a renewal for continued funding.
 
-- `start` and `end` are first and last day when paid work can occur and be billed for, but the invoice may be submitted after the `end` date.
-- 1 month is calculated as 30 days for simplicity but I can switch to proper calendar months if necessary.
-- Proposals that expire sooner are higher in the table.
+- `start` and `end` are first and last day when paid work can occur and be billed for, but the invoice may be submitted after the `end` date
+- 1 month is calculated as 30 days for simplicity but I can switch to proper calendar months if necessary
+- proposals that expire sooner are higher in the table
+
+Last updated: 2021-05-23
 
 ## Active
 
@@ -25,6 +27,7 @@ proposal|USD limit|approved|start|end|note
 [Moderation 2021](https://proposals.decred.org/proposals/e1cda44)|$16,500|2021-03-23|2021-02-01|2021-12-31|
 [Open Source Research 2021](https://proposals.decred.org/proposals/020b8b0)|$40,000|2021-02-15|2021-01-01|2021-12-31|"throughout 2021 or until the funds run out"
 [Design domain budgets: 03.21 - 12.21](https://proposals.decred.org/proposals/76eba5a)|$58,850|2021-04-14|2021-03-01|2021-12-31|
+[Politeia: Pi 2021 Q3 (Proposal System)](https://proposals.decred.org/record/91cfcc8)|$118,000|2021-05-18|2021-07-01|2021-12-31|start and end dates are "estimated", end date is [not strict](https://proposals.decred.org/record/91cfcc8/comments/8)
 
 ## Ended recently
 
