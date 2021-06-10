@@ -11,7 +11,7 @@ Here's a more detailed breakdown of our spending:
  
  
 Area | Spent | Allocated | Remaining
---- | --- | ---
+--- | --- | --- | ---
 Decred Journal | $7320 | $11340 | **$4020**
 website translation | $0 | $1680 | **$1680**
 articles/content | $1445 | $4410 | **$2965**
