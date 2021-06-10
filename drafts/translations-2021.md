@@ -5,10 +5,10 @@ This proposal is a summary of the first [Decred Content and Asset Translation Pr
 ## Summary of phase 1 and lessons learnt
 
 Perhaps the most burning question while auditing and summarising a proposal requesting funds from a shared Treasury is *"did we stay under/within the budget we set for ourselves?"* and the answer is a resounding **yes**.
-We are delighted to report that out of the **$33,000** budget we had requested, the original proposal made use of  **~$14,690**, which means that **over half** the budget stays in the Treasury, ready to fuel further Decred proposals. We hope that the prudent deployment of the proposal funds coupled with the price appreciation Decred has seen in the recent months, which further contributed to limiting the drain on the Treasury, will only confirm that the proposal has provided good value for money in light of its cost-to-output ratio.
+
+We are delighted to report that out of the **$33,000** budget we had requested, the original proposal made use of **~$14,690**, which means that **over half** the budget stays in the Treasury, ready to fuel further Decred proposals. We hope that the prudent deployment of the proposal funds coupled with the price appreciation Decred has seen in the recent months, which further contributed to limiting the drain on the Treasury, will only confirm that the proposal has provided good value for money in light of its cost-to-output ratio.
 
 Here's a more detailed breakdown of our spending:
-
 
 | Area                | Spent  | Allocated  | Remaining   |
 | ------------------- | -----: | ---------: | ----------: |
@@ -23,7 +23,7 @@ As you can see, we have maintained a healthy buffer in most areas of the scope o
 
 Because our *project chronicler*, **bee**, whom I can't thank enough for getting involved in this proposal, has been keeping and maintaining a meticulous record of translated items in his [**translation index**](https://github.com/decredcommunity/translations/blob/master/index.md), I will not re-paste it here, but encourage you to have a look at how much has been accomplished output-wise within the duration of the original translation proposal.
 
-The original proposal was not without its share of challenges and lessons learnt, however. One of the main challenges was **proposal scope management**. Despite awarding contractors a good amount of discretion and freedom to work on individual pieces as they saw fit, the proposal required a non-insignificant amount of coordination and work with the contractors to prevent and correct instances of scope creep. Where there is a linear relationship between the amount of work one finds for themselves and the payout for said work, there is also an incentive to include content that only very loosely (or sometimes not at all) fits the scope of the proposal, and it goes without saying that in order to prevent unnecessary drain on  the Treasury said behaviour needs to be monitored and prevented. Having blazed the trail with the original proposal I am convinced that future iterations will be even more efficient in this regard. The dissonance between this being an item in the "challenges" column and relatively little money being charged for it from the "management" budget allocation is due to the fact that I have mostly performed this task **voluntarily**, partly out of the feeling of duty towards the community and as a means of making up for my lacklustre performance as a translator these past few months.
+The original proposal was not without its share of challenges and lessons learnt, however. One of the main challenges was **proposal scope management**. Despite awarding contractors a good amount of discretion and freedom to work on individual pieces as they saw fit, the proposal required a non-insignificant amount of coordination and work with the contractors to prevent and correct instances of scope creep. Where there is a linear relationship between the amount of work one finds for themselves and the payout for said work, there is also an incentive to include content that only very loosely (or sometimes not at all) fits the scope of the proposal, and it goes without saying that in order to prevent unnecessary drain on the Treasury said behaviour needs to be monitored and prevented. Having blazed the trail with the original proposal I am convinced that future iterations will be even more efficient in this regard. The dissonance between this being an item in the "challenges" column and relatively little money being charged for it from the "management" budget allocation is due to the fact that I have mostly performed this task **voluntarily**, partly out of the feeling of duty towards the community and as a means of making up for my lacklustre performance as a translator these past few months.
 
 Another challenge that will be further corrected for is **communication**. There was at least one instance of **work duplication** due to poor communication, which resulted in essentially billing twice for the same job. It is my hope that further developments of the Contractor Management System and potentially setting tighter invoice submission deadlines will make tracking translation efforts easier and prevent unnecessary duplication.
 
@@ -47,7 +47,7 @@ Based on the performance of the first proposal (outlined above) the budget alloc
 
 - @kozel (Polish, management & communications)
 - @arij (Arabic)
-- @francov_(Spanish), @pablito, @nachito
+- @francov_ (Spanish), @pablito, @nachito
 - @Dominic (Chinese)
 - @mm (Portuguese)
 - @bee (management & tracking)
