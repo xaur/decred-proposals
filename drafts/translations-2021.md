@@ -10,14 +10,14 @@ We are delighted to report that out of the **33 000 USD** budget we had requeste
 Here's a more detailed breakdown of our spending:
  
  
-Area | Spent | Allocated | Remaining
---- | --- | --- | ---
-Decred Journal | $7320 | $11340 | **$4020**
-website translation | $0 | $1680 | **$1680**
-articles/content | $1445 | $4410 | **$2965**
-video content | $1940 | $10080 |  **$8140**
-software |  $3945 | $1260 | **-$2685**
-management |  $40 | $360 | **$320**
+| Area                | Spent | Allocated | Remaining  |
+| ------------------- | ----: | --------: | ---------: |
+| Decred Journal      | $7320 |    $11340 |  **$4020** |
+| website translation |    $0 |     $1680 |  **$1680** |
+| articles/content    | $1445 |     $4410 |  **$2965** |
+| video content       | $1940 |    $10080 |  **$8140** |
+| software            | $3945 |     $1260 | **-$2685** |
+| management          |   $40 |      $360 |   **$320** |
  
 As you can see, we have maintained a healthy buffer in most areas of the scope of the original proposal with the exception of **software localisation**. This is mostly due to the fact that within the duration of the original proposal we saw a major release of our Decrediton wallet, which turned out to have required significantly more work than mobile wallets, which where we got our benchmark budget allocation from.
  
