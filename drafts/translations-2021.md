@@ -5,19 +5,19 @@ This proposal is a summary of the first [Decred Content and Asset Translation Pr
 ## Summary of phase 1 and lessons learnt
  
 Perhaps the most burning question while auditing and summarising a proposal requesting funds from a shared Treasury is *"did we stay under/within the budget we set for ourselves?"* and the answer is a resounding **yes**.
-We are delighted to report that out of the **33 000 USD** budget we had requested, the original proposal made use of  **~14 690 USD**, which means that **over half** the budget stays in the Treasury, ready to fuel further Decred proposals. We hope that the prudent deployment of the proposal funds coupled with the price appreciation Decred has seen in the recent months, which further contributed to limiting the drain on the Treasury, will only confirm that the proposal has provided good value for money in light of its cost-to-output ratio.
+We are delighted to report that out of the **$33,000** budget we had requested, the original proposal made use of  **~$14,690**, which means that **over half** the budget stays in the Treasury, ready to fuel further Decred proposals. We hope that the prudent deployment of the proposal funds coupled with the price appreciation Decred has seen in the recent months, which further contributed to limiting the drain on the Treasury, will only confirm that the proposal has provided good value for money in light of its cost-to-output ratio.
  
 Here's a more detailed breakdown of our spending:
  
  
-| Area                | Spent | Allocated | Remaining  |
-| ------------------- | ----: | --------: | ---------: |
-| Decred Journal      | $7320 |    $11340 |  **$4020** |
-| website translation |    $0 |     $1680 |  **$1680** |
-| articles/content    | $1445 |     $4410 |  **$2965** |
-| video content       | $1940 |    $10080 |  **$8140** |
-| software            | $3945 |     $1260 | **-$2685** |
-| management          |   $40 |      $360 |   **$320** |
+| Area                | Spent  | Allocated  | Remaining   |
+| ------------------- | -----: | ---------: | ----------: |
+| Decred Journal      | $7,320 |    $11,340 |  **$4,020** |
+| website translation |     $0 |     $,1680 |  **$1,680** |
+| articles/content    | $1,445 |     $4,410 |  **$2,965** |
+| video content       | $,1940 |    $10,080 |  **$8,140** |
+| software            | $3,945 |     $1,260 | **-$2,685** |
+| management          |    $40 |       $360 |    **$320** |
  
 As you can see, we have maintained a healthy buffer in most areas of the scope of the original proposal with the exception of **software localisation**. This is mostly due to the fact that within the duration of the original proposal we saw a major release of our Decrediton wallet, which turned out to have required significantly more work than mobile wallets, which where we got our benchmark budget allocation from.
  
@@ -60,6 +60,6 @@ The proposal would cover translation efforts for the rest of 2021, which is 7 mo
  
 ## Budget
  
-We propose that the proposal be allocated the same budget as the initial one, which is **33 000 USD for the rest of the duration of 2021.** Past performance is a good sign that this budget will be sufficient to satisfy the translation efforts without exceeding it. Once again, it needs to be stressed that this is a **projected maximum budget** with the actual spending hopefully being much less, as indicated by past performance, and that **all funds not spent by the proposal will remain in the project Treasury**.
+We propose that the proposal be allocated the same budget as the initial one, which is **USD 33,000 for the rest of the duration of 2021.** Past performance is a good sign that this budget will be sufficient to satisfy the translation efforts without exceeding it. Once again, it needs to be stressed that this is a **projected maximum budget** with the actual spending hopefully being much less, as indicated by past performance, and that **all funds not spent by the proposal will remain in the project Treasury**.
  
 Once again, I thank you very much for your time and attention and look forward to a fruitful discussion. As always, all constructive feedback is very welcome and appreciated.
