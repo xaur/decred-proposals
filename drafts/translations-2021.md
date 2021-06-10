@@ -1,6 +1,6 @@
 # What
 
-This proposal is a summary of the first [Decred Content and Asset Translation Proposal](https://proposals-archive.decred.org/proposals/c093b8a) that was submitted in late 2020 and expired at the end of April 2021 and a formal submission to continue the translation initiative for Decred-related content and assets. If you are unfamiliar with the problems the abovementioned proposal aimed to propose solutions for, please read the original proposal, because as a continuation of this initiative the core goals remain the same.
+This proposal is a summary of the first [Decred Content and Asset Translation Proposal](https://proposals.decred.org/proposals/c093b8a) that was submitted in late 2020 and expired at the end of April 2021 and a formal submission to continue the translation initiative for Decred-related content and assets. If you are unfamiliar with the problems the abovementioned proposal aimed to propose solutions for, please read the original proposal, because as a continuation of this initiative the core goals remain the same.
 
 ## Summary of phase 1 and lessons learnt
 
